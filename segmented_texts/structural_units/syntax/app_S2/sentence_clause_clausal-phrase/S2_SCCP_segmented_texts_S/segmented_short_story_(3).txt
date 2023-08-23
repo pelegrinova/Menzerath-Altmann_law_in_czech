@@ -1,0 +1,1228 @@
+{'délka v počtu klauzí': 4,
+ 'délky klauzí': [1, 3, 2, 3],
+ 'hlavy frází form': [['pan'],
+                      ['Tohle', 'nebyl', 'špatný'],
+                      ['ale', 'chybu'],
+                      ['že', 'se', 'Praze']],
+ 'hlavy frází id': [[4], [1, 7, 8], [11, 15], [17, 18, 21]],
+ 'id věty': 1,
+ 'predikáty form': ['řekl', 'případ', 'má', 'nestal'],
+ 'predikáty id': [3, 9, 12, 19]}
+
+{'délka v počtu klauzí': 2,
+ 'délky klauzí': [0, 3],
+ 'hlavy frází form': [[], ['věcech', 'mít', 'člověk']],
+ 'hlavy frází id': [[], [6, 8, 9]],
+ 'id věty': 2,
+ 'predikáty form': ['Víte', 'má'],
+ 'predikáty id': [1, 7]}
+
+{'délka v počtu klauzí': 2,
+ 'délky klauzí': [1, 3],
+ 'hlavy frází form': [['vás'], ['co', 'nám', 'případu']],
+ 'hlavy frází id': [[2], [4, 5, 9]],
+ 'id věty': 3,
+ 'predikáty form': ['Prosím', 'je'],
+ 'predikáty id': [1, 6]}
+
+{'délka v počtu klauzí': 1,
+ 'délky klauzí': [3],
+ 'hlavy frází form': [['toho', 'my', 'nic']],
+ 'hlavy frází id': [[2, 3, 4]],
+ 'id věty': 4,
+ 'predikáty form': ['nemáme'],
+ 'predikáty id': [5]}
+
+{'délka v počtu klauzí': 2,
+ 'délky klauzí': [4, 7],
+ 'hlavy frází form': [['když', 'se', 'takhle', 'zločin'],
+                      ['Ale', 'tak', 'to', 'mně', 'páni', 'zrovna', 'jaksi']],
+ 'hlavy frází id': [[2, 3, 4, 9], [1, 13, 14, 15, 17, 19, 20]],
+ 'id věty': 5,
+ 'predikáty form': ['podaří', 'lichotí'],
+ 'predikáty id': [5, 21]}
+
+{'délka v počtu klauzí': 2,
+ 'délky klauzí': [1, 4],
+ 'hlavy frází form': [['si'], ['teď', 'se', 'nás', 'světě']],
+ 'hlavy frází id': [[2], [4, 5, 7, 11]],
+ 'id věty': 6,
+ 'predikáty form': ['říkám', 'mluví'],
+ 'predikáty id': [1, 8]}
+
+{'délka v počtu klauzí': 2,
+ 'délky klauzí': [0, 3],
+ 'hlavy frází form': [[], ['ono', 'to', 'nějak']],
+ 'hlavy frází id': [[], [3, 4, 6]],
+ 'id věty': 7,
+ 'predikáty form': ['víte', 'hřeje'],
+ 'predikáty id': [1, 7]}
+
+{'délka v počtu klauzí': 3,
+ 'délky klauzí': [2, 3, 5],
+ 'hlavy frází form': [['to', 'rozum'],
+                      ['kde', 'se', 'věc'],
+                      ['A', 'pak', 'místě', 'jít', 'obchody']],
+ 'hlavy frází id': [[4, 6], [12, 13, 17], [1, 2, 10, 20, 22]],
+ 'id věty': 8,
+ 'predikáty form': ['dá', 'vyvede', 'mohou'],
+ 'predikáty id': [5, 14, 19]}
+
+{'délka v počtu klauzí': 2,
+ 'délky klauzí': [4, 4],
+ 'hlavy frází form': [['ono', 'to', 'poměrech', 'jo'],
+                      ['a', 'to', 'vůbec', 'důvěru']],
+ 'hlavy frází id': [[1, 2, 6, 9], [11, 13, 14, 15]],
+ 'id věty': 9,
+ 'predikáty form': ['svědčí', 'budí'],
+ 'predikáty id': [3, 12]}
+
+{'délka v počtu klauzí': 1,
+ 'délky klauzí': [4],
+ 'hlavy frází form': [['Ale', 'to', 'pachatel', 'chytit']],
+ 'hlavy frází id': [[1, 2, 6, 7]],
+ 'id věty': 10,
+ 'predikáty form': ['musí'],
+ 'predikáty id': [4]}
+
+{'délka v počtu klauzí': 2,
+ 'délky klauzí': [1, 3],
+ 'hlavy frází form': [['Já'], ['jestli', 'se', 'případ']],
+ 'hlavy frází id': [[1], [4, 5, 9]],
+ 'id věty': 11,
+ 'predikáty form': ['nevím', 'pamatujete'],
+ 'predikáty id': [2, 6]}
+
+{'délka v počtu klauzí': 5,
+ 'délky klauzí': [3, 5, 0, 4, 4],
+ 'hlavy frází form': [['on', 'tam', 'obchod'],
+                      ['ale', 'sem', 'tam', 'taky', 'koberce'],
+                      [],
+                      ['on', 'let', 'kšeft', 'Cařihradě'],
+                      ['však', 'si', 'odtamtud', 'něco']],
+ 'hlavy frází id': [[1, 2, 4],
+                    [8, 9, 10, 11, 14],
+                    [],
+                    [23, 27, 29, 31],
+                    [32, 33, 34, 36]],
+ 'id věty': 12,
+ 'predikáty form': ['měl', 'prodával', 'víte', 'měl', 'přinesl'],
+ 'predikáty id': [3, 12, 21, 24, 35]}
+
+{'délka v počtu klauzí': 2,
+ 'délky klauzí': [4, 4],
+ 'hlavy frází form': [['proto', 'byl', 'kočka', 'hnědý'],
+                      ['jako', 'by', 'ho', 'třísla']],
+ 'hlavy frází id': [[1, 2, 6, 8], [10, 11, 12, 15]],
+ 'id věty': 13,
+ 'predikáty form': ['vychrtlý', 'vytáhl'],
+ 'predikáty id': [3, 13]}
+
+{'délka v počtu klauzí': 2,
+ 'délky klauzí': [3, 2],
+ 'hlavy frází form': [['A', 'tepicháři', 'ním'], ['protože', 'domluvit']],
+ 'hlavy frází id': [[1, 3, 10], [13, 21]],
+ 'id věty': 14,
+ 'predikáty form': ['chodili', 'dovedl'],
+ 'predikáty id': [11, 17]}
+
+{'délka v počtu klauzí': 1,
+ 'délky klauzí': [5],
+ 'hlavy frází form': [['Oni', 'to', 'jsou', 'velcí', 'Arméni']],
+ 'hlavy frází id': [[1, 2, 3, 4, 8]],
+ 'id věty': 15,
+ 'predikáty form': ['gauneři'],
+ 'predikáty id': [5]}
+
+{'délka v počtu klauzí': 1,
+ 'délky klauzí': [2],
+ 'hlavy frází form': [['dát', 'žid']],
+ 'hlavy frází id': [[5, 8]],
+ 'id věty': 16,
+ 'predikáty form': ['musí'],
+ 'predikáty id': [4]}
+
+{'délka v počtu klauzí': 2,
+ 'délky klauzí': [4, 5],
+ 'hlavy frází form': [['Teda', 'Hirsch', 'přízemí', 'kůže'],
+                      ['a', 'odtamtud', 'se', 'schůdkách', 'kontoru']],
+ 'hlavy frází id': [[1, 3, 6, 8], [9, 10, 11, 16, 19]],
+ 'id věty': 17,
+ 'predikáty form': ['měl', 'šlo'],
+ 'predikáty id': [4, 12]}
+
+{'délka v počtu klauzí': 2,
+ 'délky klauzí': [2, 3],
+ 'hlavy frází form': [['kontorem', 'byt'], ['a', 'tam', 'paní']],
+ 'hlavy frází id': [[2, 5], [6, 7, 9]],
+ 'id věty': 18,
+ 'predikáty form': ['byl', 'seděla'],
+ 'predikáty id': [3, 8]}
+
+{'délka v počtu klauzí': 2,
+ 'délky klauzí': [4, 2],
+ 'hlavy frází form': [['ona', 'totiž', 'byla', 'tak'], ['že', 'chodit']],
+ 'hlavy frází id': [[1, 2, 3, 4], [7, 10]],
+ 'id věty': 19,
+ 'predikáty form': ['tlustá', 'nemohla'],
+ 'predikáty id': [5, 8]}
+
+{'délka v počtu klauzí': 2,
+ 'délky klauzí': [7, 3],
+ 'hlavy frází form': [['Tak',
+                       'jednou',
+                       'polednímu',
+                       'příručí',
+                       'nahoru',
+                       'kontoru',
+                       'panem'],
+                      ['jestli', 'poslat', 'nebyl']],
+ 'hlavy frází id': [[1, 2, 4, 7, 8, 10, 12], [15, 17, 31]],
+ 'id věty': 20,
+ 'predikáty form': ['šel', 'mají'],
+ 'predikáty id': [5, 16]}
+
+{'délka v počtu klauzí': 3,
+ 'délky klauzí': [5, 3, 5],
+ 'hlavy frází form': [['Ono', 'to', 'sic', 'bylo', 'jo'],
+                      ['ale', 'příručí', 'si'],
+                      ['on', 'pan', 'skok', 'vedle', 'paní']],
+ 'hlavy frází id': [[1, 2, 3, 4, 8], [10, 12, 13], [16, 17, 22, 23, 25]],
+ 'id věty': 21,
+ 'predikáty form': ['divné', 'řekl', 'šel'],
+ 'predikáty id': [5, 14, 19]}
+
+{'délka v počtu klauzí': 2,
+ 'délky klauzí': [5, 3],
+ 'hlavy frází form': [['Ale', 'chvíli', 'vám', 'shora', 'služka'],
+                      ['že', 'pan', 'jít']],
+ 'hlavy frází id': [[1, 3, 4, 6, 7], [9, 10, 13]],
+ 'id věty': 22,
+ 'predikáty form': ['přišla', 'má'],
+ 'predikáty id': [5, 12]}
+
+{'délka v počtu klauzí': 1,
+ 'délky klauzí': [4],
+ 'hlavy frází form': [['Jak', 'to', 'příručí', 'je']],
+ 'hlavy frází id': [[1, 2, 9, 15]],
+ 'id věty': 23,
+ 'predikáty form': ['řekl'],
+ 'predikáty id': [7]}
+
+{'délka v počtu klauzí': 3,
+ 'délky klauzí': [3, 4, 3],
+ 'hlavy frází form': [['by', 'byl', 'služka'],
+                      ['přece', 'paní', 'den', 'kontoru'],
+                      ['a', 'ho', 'rána']],
+ 'hlavy frází id': [[3, 4, 9], [11, 12, 16, 19], [20, 22, 24]],
+ 'id věty': 24,
+ 'predikáty form': ['povídá', 'sedí', 'neviděla'],
+ 'predikáty id': [8, 14, 21]}
+
+{'délka v počtu klauzí': 4,
+ 'délky klauzí': [1, 5, 0, 4],
+ 'hlavy frází form': [['příručí'],
+                      ['A', 'my', 'jsme', 'ho', 'taky'],
+                      [],
+                      ['že', 'pane', 'to', 'byl']],
+ 'hlavy frází id': [[6], [1, 2, 8, 9, 10], [], [13, 15, 20, 21]],
+ 'id věty': 25,
+ 'predikáty form': ['řekl', 'neviděli', 'víte', 'sluha'],
+ 'predikáty id': [4, 11, 18, 22]}
+
+{'délka v počtu klauzí': 4,
+ 'délky klauzí': [4, 1, 5, 3],
+ 'hlavy frází form': [['hodin', 'jsem', 'mu', 'poštu'],
+                      ['příručí'],
+                      ['a', 'pan', 'ještě', 'mě', 'hubu'],
+                      ['že', 'jsme', 'urgovat']],
+ 'hlavy frází id': [[3, 4, 5, 7], [11], [13, 14, 17, 19, 20], [22, 23, 25]],
+ 'id věty': 26,
+ 'predikáty form': ['donesl', 'povídal', 'měl', 'měli'],
+ 'predikáty id': [6, 9, 16, 24]}
+
+{'délka v počtu klauzí': 1,
+ 'délky klauzí': [3],
+ 'hlavy frází form': [['doby', 'kontoru', 'nos']],
+ 'hlavy frází id': [[3, 6, 7]],
+ 'id věty': 27,
+ 'predikáty form': ['nevystrčil'],
+ 'predikáty id': [4]}
+
+{'délka v počtu klauzí': 1,
+ 'délky klauzí': [3],
+ 'hlavy frází form': [['Ježíšmarjá', 'služka', 'není']],
+ 'hlavy frází id': [[1, 5, 11]],
+ 'id věty': 28,
+ 'predikáty form': ['řekla'],
+ 'predikáty id': [3]}
+
+{'délka v počtu klauzí': 1,
+ 'délky klauzí': [4],
+ 'hlavy frází form': [['on', 'snad', 'někam', 'města']],
+ 'hlavy frází id': [[2, 3, 4, 6]],
+ 'id věty': 29,
+ 'predikáty form': ['nešel'],
+ 'predikáty id': [1]}
+
+{'délka v počtu klauzí': 4,
+ 'délky klauzí': [2, 1, 5, 4],
+ 'hlavy frází form': [['Tady', 'krám'],
+                      ['příručí'],
+                      ['to', 'bychom', 'vidět', 'jo', 'Václave'],
+                      ['to', 'on', 'snad', 'byt']],
+ 'hlavy frází id': [[1, 3], [8], [10, 11, 14, 17, 19], [21, 22, 23, 26]],
+ 'id věty': 30,
+ 'predikáty form': ['nešel', 'řekl', 'museli', 'šel'],
+ 'predikáty id': [4, 6, 13, 24]}
+
+{'délka v počtu klauzí': 3,
+ 'délky klauzí': [2, 1, 4],
+ 'hlavy frází form': [['To', 'není'], ['služka'], ['to', 'by', 'ho', 'paní']],
+ 'hlavy frází id': [[1, 2], [6], [8, 9, 10, 11]],
+ 'id věty': 31,
+ 'predikáty form': ['možné', 'povídá', 'viděla'],
+ 'predikáty id': [3, 5, 13]}
+
+{'délka v počtu klauzí': 2,
+ 'délky klauzí': [1, 1],
+ 'hlavy frází form': [['Tak'], ['příručí']],
+ 'hlavy frází id': [[1], [6]],
+ 'id věty': 32,
+ 'predikáty form': ['počkejte', 'řekl'],
+ 'predikáty id': [2, 4]}
+
+{'délka v počtu klauzí': 2,
+ 'délky klauzí': [3, 3],
+ 'hlavy frází form': [['když', 'jsem', 'ho'], ['tak', 'župan', 'nohou']],
+ 'hlavy frází id': [[1, 2, 3], [6, 8, 11]],
+ 'id věty': 33,
+ 'predikáty form': ['viděl', 'měl'],
+ 'predikáty id': [4, 7]}
+
+{'délka v počtu klauzí': 4,
+ 'délky klauzí': [1, 3, 3, 2],
+ 'hlavy frází form': [['podívat'],
+                      ['jestli', 'si', 'boty'],
+                      ['ono', 'to', 'bylo'],
+                      ['a', 'moc']],
+ 'hlavy frází id': [[3], [5, 6, 8], [15, 16, 17], [20, 21]],
+ 'id věty': 34,
+ 'predikáty form': ['jděte', 'vzal', 'víte', 'pršelo'],
+ 'predikáty id': [1, 7, 14, 22]}
+
+{'délka v počtu klauzí': 4,
+ 'délky klauzí': [2, 1, 3, 4],
+ 'hlavy frází form': [['Jestli', 'se'],
+                      ['příručí'],
+                      ['tak', 'někam', 'města'],
+                      ['ne', 'tak', 'být', 'jo']],
+ 'hlavy frází id': [[1, 2], [7], [9, 11, 13], [16, 18, 20, 25]],
+ 'id věty': 35,
+ 'predikáty form': ['oblékl', 'povídá', 'šel', 'musí'],
+ 'predikáty id': [3, 5, 10, 19]}
+
+{'délka v počtu klauzí': 2,
+ 'délky klauzí': [3, 5],
+ 'hlavy frází form': [['Teda', 'služka', 'nahoru'],
+                      ['a', 'chvíli', 'se', 'celá', 'sebe']],
+ 'hlavy frází id': [[1, 3, 5], [6, 8, 9, 11, 13]],
+ 'id věty': 36,
+ 'predikáty form': ['lítla', 'vrátí'],
+ 'predikáty id': [4, 10]}
+
+{'délka v počtu klauzí': 2,
+ 'délky klauzí': [3, 5],
+ 'hlavy frází form': [['Proboha', 'pane', 'příručímu'],
+                      ['vždyť', 'on', 'pan', 'si', 'boty']],
+ 'hlavy frází id': [[1, 3, 8], [10, 11, 12, 14, 16]],
+ 'id věty': 37,
+ 'predikáty form': ['povídá', 'nevzal'],
+ 'predikáty id': [6, 15]}
+
+{'délka v počtu klauzí': 3,
+ 'délky klauzí': [2, 2, 4],
+ 'hlavy frází form': [['a', 'paní'],
+                      ['že', 'jít'],
+                      ['vždyť', 'to', 'by', 'jít']],
+ 'hlavy frází id': [[1, 2], [6, 10], [12, 13, 14, 16]],
+ 'id věty': 38,
+ 'predikáty form': ['říká', 'nemohl', 'musel'],
+ 'predikáty id': [4, 9, 15]}
+
+{'délka v počtu klauzí': 2,
+ 'délky klauzí': [2, 1],
+ 'hlavy frází form': [['krám', 'taky'], ['příručí']],
+ 'hlavy frází id': [[2, 3], [8]],
+ 'id věty': 39,
+ 'predikáty form': ['nešel', 'řekl'],
+ 'predikáty id': [4, 6]}
+
+{'délka v počtu klauzí': 2,
+ 'délky klauzí': [4, 5],
+ 'hlavy frází form': [['on', 'vůbec', 'dnes', 'krámě'],
+                      ['jen', 'si', 'mě', 'kontoru', 'poštu']],
+ 'hlavy frází id': [[1, 2, 3, 5], [8, 9, 10, 13, 16]],
+ 'id věty': 40,
+ 'predikáty form': ['nebyl', 'zavolal'],
+ 'predikáty id': [6, 11]}
+
+{'délka v počtu klauzí': 1,
+ 'délky klauzí': [2],
+ 'hlavy frází form': [['Václave', 'hledat']],
+ 'hlavy frází id': [[1, 5]],
+ 'id věty': 41,
+ 'predikáty form': ['pojďte'],
+ 'predikáty id': [3]}
+
+{'délka v počtu klauzí': 1,
+ 'délky klauzí': [3],
+ 'hlavy frází form': [['Tak', 'nejdřív', 'kontoru']],
+ 'hlavy frází id': [[1, 2, 5]],
+ 'id věty': 42,
+ 'predikáty form': ['běželi'],
+ 'predikáty id': [3]}
+
+{'délka v počtu klauzí': 2,
+ 'délky klauzí': [4, 3],
+ 'hlavy frází form': [['tam', 'nepořádek', 'pár', 'byl'],
+                      ['a', 'stolem', 'světlo']],
+ 'hlavy frází id': [[1, 4, 7, 17], [25, 27, 30]],
+ 'id věty': 43,
+ 'predikáty form': ['nebyl', 'hořelo'],
+ 'predikáty id': [2, 28]}
+
+{'délka v počtu klauzí': 3,
+ 'délky klauzí': [4, 1, 3],
+ 'hlavy frází form': [['Tak', 'to', 'už', 'je'],
+                      ['Hugo'],
+                      ['že', 'pan', 'nikam']],
+ 'hlavy frází id': [[1, 2, 3, 4], [9], [11, 12, 14]],
+ 'id věty': 44,
+ 'predikáty form': ['jisté', 'řekl', 'nešel'],
+ 'predikáty id': [5, 7, 15]}
+
+{'délka v počtu klauzí': 2,
+ 'délky klauzí': [2, 5],
+ 'hlavy frází form': [['by', 'někam'], ['tak', 'by', 'přece', 'lampu', 'jo']],
+ 'hlavy frází id': [[2, 3], [6, 7, 8, 10, 13]],
+ 'id věty': 45,
+ 'predikáty form': ['šel', 'zhasl'],
+ 'predikáty id': [4, 9]}
+
+{'délka v počtu klauzí': 1,
+ 'délky klauzí': [3],
+ 'hlavy frází form': [['To', 'on', 'být']],
+ 'hlavy frází id': [[1, 2, 4]],
+ 'id věty': 46,
+ 'predikáty form': ['musí'],
+ 'predikáty id': [3]}
+
+{'délka v počtu klauzí': 1,
+ 'délky klauzí': [4],
+ 'hlavy frází form': [['Tak', 'vám', 'byt', 'nikde']],
+ 'hlavy frází id': [[1, 2, 5, 8]],
+ 'id věty': 47,
+ 'predikáty form': ['prohledali'],
+ 'predikáty id': [3]}
+
+{'délka v počtu klauzí': 1,
+ 'délky klauzí': [3],
+ 'hlavy frází form': [['Paní', 'fotelu', 'plakat']],
+ 'hlavy frází id': [[1, 7, 9]],
+ 'id věty': 48,
+ 'predikáty form': ['začala'],
+ 'predikáty id': [3]}
+
+{'délka v počtu klauzí': 3,
+ 'délky klauzí': [2, 2, 5],
+ 'hlavy frází form': [['ono', 'to'],
+                      ['potom', 'Hugo'],
+                      ['jako', 'by', 'se', 'tam', 'hromada']],
+ 'hlavy frází id': [[1, 2], [6, 8], [10, 11, 12, 13, 16]],
+ 'id věty': 49,
+ 'predikáty form': ['vypadalo', 'říkal', 'třásla'],
+ 'predikáty id': [3, 5, 14]}
+
+{'délka v počtu klauzí': 5,
+ 'délky klauzí': [2, 2, 4, 3, 1],
+ 'hlavy frází form': [['Paní', 'Hugo'],
+                      ['to', 'zvláštní'],
+                      ['jak', 'žid', 'rázem', 'rozumu'],
+                      ['když', 'to', 'být'],
+                      ['paní']],
+ 'hlavy frází id': [[1, 6], [7, 9], [11, 14, 15, 18], [20, 21, 23], [25]],
+ 'id věty': 50,
+ 'predikáty form': ['řekl', 'máte', 'přijde', 'musí', 'neplačte'],
+ 'predikáty id': [4, 8, 16, 22, 28]}
+
+{'délka v počtu klauzí': 4,
+ 'délky klauzí': [3, 3, 4, 4],
+ 'hlavy frází form': [['on', 'pan', 'nikam'],
+                      ['vždyť', 'kůže', 'teď'],
+                      ['a', 'toho', 'pohledávky', 'jo'],
+                      ['on', 'šéf', 'někde', 'být']],
+ 'hlavy frází id': [[1, 2, 4], [7, 8, 9], [11, 13, 16, 19], [21, 23, 24, 26]],
+ 'id věty': 51,
+ 'predikáty form': ['neutek', 'jdou', 'neinkasoval', 'musí'],
+ 'predikáty id': [5, 10, 14, 25]}
+
+{'délka v počtu klauzí': 4,
+ 'délky klauzí': [3, 4, 2, 3],
+ 'hlavy frází form': [['by', 'se', 'večera'],
+                      ['tak', 'tom', 'policii', 'dřív'],
+                      ['to', 'paní'],
+                      ['věc', 'závodu', 'dobře']],
+ 'hlavy frází id': [[2, 3, 6], [8, 10, 13, 16], [19, 22], [27, 29, 30]],
+ 'id věty': 52,
+ 'predikáty form': ['nenašel', 'řekneme', 'víte', 'nedělá'],
+ 'predikáty id': [4, 11, 20, 28]}
+
+{'délka v počtu klauzí': 2,
+ 'délky klauzí': [3, 1],
+ 'hlavy frází form': [['Teda', 'večera', 'panu'], ['a']],
+ 'hlavy frází id': [[1, 3, 10], [5]],
+ 'id věty': 53,
+ 'predikáty form': ['čekali', 'hledali'],
+ 'predikáty id': [4, 6]}
+
+{'délka v počtu klauzí': 3,
+ 'délky klauzí': [5, 2, 3],
+ 'hlavy frází form': [['Když', 'teda', 'pan', 'hodinu', 'krám'],
+                      ['direkci', 'ohlásit'],
+                      ['že', 'se', 'pan']],
+ 'hlavy frází id': [[1, 2, 3, 7, 9], [14, 15], [17, 18, 19]],
+ 'id věty': 54,
+ 'predikáty form': ['zavřel', 'šel', 'ztratil'],
+ 'predikáty id': [8, 11, 21]}
+
+{'délka v počtu klauzí': 1,
+ 'délky klauzí': [4],
+ 'hlavy frází form': [['Tak', 'tam', 'policie', 'detektivy']],
+ 'hlavy frází id': [[1, 2, 4, 6]],
+ 'id věty': 55,
+ 'predikáty form': ['poslali'],
+ 'predikáty id': [5]}
+
+{'délka v počtu klauzí': 3,
+ 'délky klauzí': [1, 3, 2],
+ 'hlavy frází form': [['to'], ['ti', 'tam', 'všecko'], ['ale', 'stopu']],
+ 'hlavy frází id': [[1], [4, 5, 6], [9, 14]],
+ 'id věty': 56,
+ 'predikáty form': ['víte', 'prošťárali', 'nenašli'],
+ 'predikáty id': [2, 7, 10]}
+
+{'délka v počtu klauzí': 1,
+ 'délky klauzí': [3],
+ 'hlavy frází form': [['krev', 'podlaze', 'nikde']],
+ 'hlavy frází id': [[2, 5, 8]],
+ 'id věty': 57,
+ 'predikáty form': ['hledali'],
+ 'predikáty id': [3]}
+
+{'délka v počtu klauzí': 1,
+ 'délky klauzí': [3],
+ 'hlavy frází form': [['tak', 'zatím', 'kontor']],
+ 'hlavy frází id': [[1, 2, 5]],
+ 'id věty': 58,
+ 'predikáty form': ['zapečetili'],
+ 'predikáty id': [3]}
+
+{'délka v počtu klauzí': 2,
+ 'délky klauzí': [2, 4],
+ 'hlavy frází form': [['Potom', 'paní'], ['co', 'se', 'rána', 'jako']],
+ 'hlavy frází id': [[1, 3], [9, 10, 12, 13]],
+ 'id věty': 59,
+ 'predikáty form': ['vyslýchali', 'dálo'],
+ 'predikáty id': [2, 14]}
+
+{'délka v počtu klauzí': 1,
+ 'délky klauzí': [3],
+ 'hlavy frází form': [['Ale', 'nikdo', 'nic']],
+ 'hlavy frází id': [[1, 2, 4]],
+ 'id věty': 60,
+ 'predikáty form': ['nevěděl'],
+ 'predikáty id': [3]}
+
+{'délka v počtu klauzí': 3,
+ 'délky klauzí': [2, 4, 3],
+ 'hlavy frází form': [['pan', 'si'],
+                      ['že', 'hodině', 'panu', 'pan'],
+                      ['a', 'panem', 'minut']],
+ 'hlavy frází id': [[2, 4], [7, 10, 13, 15], [21, 24, 28]],
+ 'id věty': 61,
+ 'predikáty form': ['vzpomněl', 'přišel', 'mluvil'],
+ 'predikáty id': [5, 11, 22]}
+
+{'délka v počtu klauzí': 4,
+ 'délky klauzí': [2, 3, 2, 2],
+ 'hlavy frází form': [['Tak', 'pana'],
+                      ['a', 'to', 'se'],
+                      ['ho', 'kavárně'],
+                      ['jak', 'ramšla']],
+ 'hlavy frází id': [[1, 4], [7, 8, 9], [13, 15], [18, 20]],
+ 'id věty': 62,
+ 'predikáty form': ['hledali', 'rozumí', 'našli', 'hraje'],
+ 'predikáty id': [2, 10, 12, 19]}
+
+{'délka v počtu klauzí': 3,
+ 'délky klauzí': [4, 3, 5],
+ 'hlavy frází form': [['Tak', 'Lebeda', 'honem', 'bank'],
+                      ['ale', 'detektiv', 'mu'],
+                      ['Pane', 'dnes', 'to', 'ramšla', 'je']],
+ 'hlavy frází id': [[1, 3, 4, 6], [8, 10, 11], [14, 17, 18, 21, 24]],
+ 'id věty': 63,
+ 'predikáty form': ['schovával', 'povídá', 'není'],
+ 'predikáty id': [5, 12, 19]}
+
+{'délka v počtu klauzí': 3,
+ 'délky klauzí': [4, 4, 2],
+ 'hlavy frází form': [['on', 'se', 'nám', 'pan'],
+                      ['a', 'vy', 'jste', 'byl'],
+                      ['kdo', 'ho']],
+ 'hlavy frází id': [[1, 2, 3, 4], [8, 9, 10, 11], [14, 15]],
+ 'id věty': 64,
+ 'predikáty form': ['ztratil', 'poslední', 'viděl'],
+ 'predikáty id': [6, 12, 16]}
+
+{'délka v počtu klauzí': 1,
+ 'délky klauzí': [5],
+ 'hlavy frází form': [['ale', 'on', 'Lebeda', 'taky', 'nic']],
+ 'hlavy frází id': [[4, 5, 7, 9, 10]],
+ 'id věty': 65,
+ 'predikáty form': ['nevěděl'],
+ 'predikáty id': [8]}
+
+{'délka v počtu klauzí': 2,
+ 'délky klauzí': [2, 2],
+ 'hlavy frází form': [['pana', 'řemenům'], ['a', 'nic']],
+ 'hlavy frází id': [[3, 7], [8, 9]],
+ 'id věty': 66,
+ 'predikáty form': ['byl', 'nepozoroval'],
+ 'predikáty id': [1, 11]}
+
+{'délka v počtu klauzí': 1,
+ 'délky klauzí': [5],
+ 'hlavy frází form': [['jen', 'se', 'mu', 'pan', 'chatrnější']],
+ 'hlavy frází id': [[1, 2, 3, 4, 8]],
+ 'id věty': 67,
+ 'predikáty form': ['zdál'],
+ 'predikáty id': [6]}
+
+{'délka v počtu klauzí': 2,
+ 'délky klauzí': [4, 1],
+ 'hlavy frází form': [['Vy', 'ale', 'nějak', 'pane'], ['mu']],
+ 'hlavy frází id': [[1, 2, 3, 6], [10]],
+ 'id věty': 68,
+ 'predikáty form': ['scházíte', 'řekl'],
+ 'predikáty id': [4, 9]}
+
+{'délka v počtu klauzí': 3,
+ 'délky klauzí': [4, 4, 2],
+ 'hlavy frází form': [['Ale', 'pane', 'mu', 'komisař'],
+                      ['i', 'by', 'pan', 'víc'],
+                      ['tak', 'ztratit']],
+ 'hlavy frází id': [[1, 2, 5, 7], [9, 11, 12, 16], [18, 22]],
+ 'id věty': 69,
+ 'predikáty form': ['řekl', 'zhubl', 'nemohl'],
+ 'predikáty id': [4, 14, 21]}
+
+{'délka v počtu klauzí': 1,
+ 'délky klauzí': [4],
+ 'hlavy frází form': [['kost', 'by', 'zůstat', 'jo']],
+ 'hlavy frází id': [[3, 6, 10, 13]],
+ 'id věty': 70,
+ 'predikáty form': ['musely'],
+ 'predikáty id': [9]}
+
+{'délka v počtu klauzí': 1,
+ 'délky klauzí': [5],
+ 'hlavy frází form': [['A', 'aktovce', 'jste', 'taky', 'odnést']],
+ 'hlavy frází id': [[1, 3, 4, 6, 7]],
+ 'id věty': 71,
+ 'predikáty form': ['nemohl'],
+ 'predikáty id': [8]}
+
+{'délka v počtu klauzí': 2,
+ 'délky klauzí': [1, 3],
+ 'hlavy frází form': [['Ale'], ['teď', 'případ', 'konec']],
+ 'hlavy frází id': [[1], [4, 7, 9]],
+ 'id věty': 72,
+ 'predikáty form': ['počkejte', 'má'],
+ 'predikáty id': [2, 5]}
+
+{'délka v počtu klauzí': 2,
+ 'délky klauzí': [2, 5],
+ 'hlavy frází form': [['To', 'jsou'], ['co', 'si', 'tam', 'cestující', 'věci']],
+ 'hlavy frází id': [[1, 5], [11, 12, 13, 14, 17]],
+ 'id věty': 73,
+ 'predikáty form': ['víte', 'nechávají'],
+ 'predikáty id': [2, 15]}
+
+{'délka v počtu klauzí': 4,
+ 'délky klauzí': [3, 3, 3, 4],
+ 'hlavy frází form': [['Tak', 'to', 'dny'],
+                      ['a', 'šatnářka', 'posluhovi'],
+                      ['že', 'tam', 'kufr'],
+                      ['a', 'ten', 'že', 'líbit']],
+ 'hlavy frází id': [[1, 2, 6], [12, 14, 17], [19, 20, 23], [24, 25, 26, 30]],
+ 'id věty': 74,
+ 'predikáty form': ['bylo', 'řekla', 'má', 'nechce'],
+ 'predikáty id': [3, 15, 21, 29]}
+
+{'délka v počtu klauzí': 3,
+ 'délky klauzí': [3, 0, 5],
+ 'hlavy frází form': [['Já', 'ani', 'proč'],
+                      [],
+                      ['ale', 'já', 'se', 'kufru', 'zrovna']],
+ 'hlavy frází id': [[1, 2, 4], [], [8, 9, 10, 12, 13]],
+ 'id věty': 75,
+ 'predikáty form': ['nevím', 'řekla', 'bojím'],
+ 'predikáty id': [3, 6, 14]}
+
+{'délka v počtu klauzí': 4,
+ 'délky klauzí': [3, 1, 2, 3],
+ 'hlavy frází form': [['Teda', 'posluha', 'čuchnout'],
+                      ['a'],
+                      ['Matko', 'co'],
+                      ['tom', 'raději', 'policii']],
+ 'hlavy frází id': [[1, 3, 8], [9], [12, 15], [19, 20, 22]],
+ 'id věty': 76,
+ 'predikáty form': ['šel', 'povídá', 'víte', 'řekněte'],
+ 'predikáty id': [4, 10, 14, 17]}
+
+{'délka v počtu klauzí': 3,
+ 'délky klauzí': [4, 2, 3],
+ 'hlavy frází form': [['Tak', 'oni', 'vám', 'psa'],
+                      ['když', 'kufru'],
+                      ['a', 'ten', 'vrčet']],
+ 'hlavy frází id': [[1, 2, 3, 6], [11, 14], [8, 9, 18]],
+ 'id věty': 77,
+ 'predikáty form': ['přivedli', 'čuchnul', 'začal'],
+ 'predikáty id': [4, 15, 17]}
+
+{'délka v počtu klauzí': 3,
+ 'délky klauzí': [5, 3, 5],
+ 'hlavy frází form': [['To', 'teda', 'už', 'bylo', 'jaksi'],
+                      ['a', 'proto', 'kufr'],
+                      ['a', 'něm', 'vám', 'byla', 'mrtvola']],
+ 'hlavy frází id': [[1, 2, 3, 4, 5], [8, 9, 11], [14, 16, 17, 18, 20]],
+ 'id věty': 78,
+ 'predikáty form': ['nápadné', 'vypáčili', 'vtlačena'],
+ 'predikáty id': [6, 12, 19]}
+
+{'délka v počtu klauzí': 2,
+ 'délky klauzí': [2, 5],
+ 'hlavy frází form': [['Protože', 'nemoc'],
+                      ['tak', 'už', 'taky', 'chudáka', 'cítit']],
+ 'hlavy frází id': [[1, 4], [6, 8, 9, 12, 14]],
+ 'id věty': 79,
+ 'predikáty form': ['měl', 'bylo'],
+ 'predikáty id': [2, 10]}
+
+{'délka v počtu klauzí': 2,
+ 'délky klauzí': [4, 1],
+ 'hlavy frází form': [['A', 'krku', 'vám', 'špagát'], ['byl']],
+ 'hlavy frází id': [[1, 3, 4, 9], [11]],
+ 'id věty': 80,
+ 'predikáty form': ['měl', 'uškrcen'],
+ 'predikáty id': [5, 12]}
+
+{'délka v počtu klauzí': 2,
+ 'délky klauzí': [2, 2],
+ 'hlavy frází form': [['Ale', 'bylo'], ['jak', 'dostat']],
+ 'hlavy frází id': [[1, 3], [5, 13]],
+ 'id věty': 81,
+ 'predikáty form': ['nejdivnější', 'mohl'],
+ 'predikáty id': [2, 7]}
+
+{'délka v počtu klauzí': 1,
+ 'délky klauzí': [3],
+ 'hlavy frází form': [['Tak', 'případ', 'komisař']],
+ 'hlavy frází id': [[1, 3, 5]],
+ 'id věty': 82,
+ 'predikáty form': ['dostal'],
+ 'predikáty id': [4]}
+
+{'délka v počtu klauzí': 3,
+ 'délky klauzí': [4, 2, 3],
+ 'hlavy frází form': [['On', 'se', 'vám', 'mrtvolu'],
+                      ['a', 'hned'],
+                      ['že', 'tváři', 'fleky']],
+ 'hlavy frází id': [[1, 2, 3, 7], [8, 9], [12, 15, 25]],
+ 'id věty': 83,
+ 'predikáty form': ['podívá', 'vidí', 'má'],
+ 'predikáty id': [4, 10, 13]}
+
+{'délka v počtu klauzí': 2,
+ 'délky klauzí': [4, 4],
+ 'hlavy frází form': [['ono', 'to', 'bylo', 'tím'],
+                      ['že', 'byl', 'pan', 'takový']],
+ 'hlavy frází id': [[1, 2, 3, 4], [7, 8, 10, 12]],
+ 'id věty': 84,
+ 'predikáty form': ['nápadnější', 'hnědý'],
+ 'predikáty id': [5, 13]}
+
+{'délka v počtu klauzí': 4,
+ 'délky klauzí': [4, 2, 2, 3],
+ 'hlavy frází form': [['To', 'je', 'divný', 'rozkladu'],
+                      ['si', 'pan'],
+                      ['a', 'třít'],
+                      ['a', 'on', 'flek']],
+ 'hlavy frází id': [[1, 2, 3, 5], [8, 10], [13, 15], [21, 22, 24]],
+ 'id věty': 85,
+ 'predikáty form': ['úkaz', 'řekl', 'zkusil', 'pouštěl'],
+ 'predikáty id': [4, 7, 14, 25]}
+
+{'délka v počtu klauzí': 3,
+ 'délky klauzí': [0, 3, 3],
+ 'hlavy frází form': [[], ['teda', 'těm', 'druhým'], ['ono', 'to', 'anilínu']],
+ 'hlavy frází id': [[], [4, 5, 6], [8, 9, 14]],
+ 'id věty': 86,
+ 'predikáty form': ['Poslouchejte', 'řekl', 'vypadá'],
+ 'predikáty id': [1, 3, 10]}
+
+{'délka v počtu klauzí': 1,
+ 'délky klauzí': [2],
+ 'hlavy frází form': [['Já', 'podívat']],
+ 'hlavy frází id': [[1, 5]],
+ 'id věty': 87,
+ 'predikáty form': ['musím'],
+ 'predikáty id': [3]}
+
+{'délka v počtu klauzí': 1,
+ 'délky klauzí': [5],
+ 'hlavy frází form': [['Nejdřív', 'tedy', 'kontoru', 'barvách', 'nebylo']],
+ 'hlavy frází id': [[1, 2, 5, 9, 12]],
+ 'id věty': 88,
+ 'predikáty form': ['koukal'],
+ 'predikáty id': [6]}
+
+{'délka v počtu klauzí': 1,
+ 'délky klauzí': [5],
+ 'hlavy frází form': [['a', 'najednou', 'mu', 'očí', 'koberce']],
+ 'hlavy frází id': [[1, 2, 3, 6, 10]],
+ 'id věty': 89,
+ 'predikáty form': ['padly'],
+ 'predikáty id': [4]}
+
+{'délka v počtu klauzí': 2,
+ 'délky klauzí': [2, 4],
+ 'hlavy frází form': [['Tak', 'jeden'], ['a', 'tam', 'mustr', 'kapesníkem']],
+ 'hlavy frází id': [[1, 2], [6, 8, 11, 13]],
+ 'id věty': 90,
+ 'predikáty form': ['rozbalil', 'třel'],
+ 'predikáty id': [5, 7]}
+
+{'délka v počtu klauzí': 1,
+ 'délky klauzí': [5],
+ 'hlavy frází form': [['a', 'šátku', 'se', 'mu', 'flek']],
+ 'hlavy frází id': [[1, 4, 5, 6, 9]],
+ 'id věty': 91,
+ 'predikáty form': ['udělal'],
+ 'predikáty id': [7]}
+
+{'délka v počtu klauzí': 4,
+ 'délky klauzí': [4, 1, 2, 3],
+ 'hlavy frází form': [['To', 'je', 'zatracený', 'koberce'],
+                      ['komisař'],
+                      ['a', 'dál'],
+                      ['stole', 'misce', 'špačky']],
+ 'hlavy frází id': [[1, 2, 3, 7], [11], [13, 15], [18, 23, 29]],
+ 'id věty': 92,
+ 'predikáty form': ['šmejd', 'řekl', 'hledá', 'našel'],
+ 'predikáty id': [4, 9, 14, 21]}
+
+{'délka v počtu klauzí': 3,
+ 'délky klauzí': [3, 1, 6],
+ 'hlavy frází form': [['To', 'si', 'člověče'],
+                      ['detektivovi'],
+                      ['že', 'se', 'kšeftu', 'vždycky', 'cigareta', 'druhou']],
+ 'hlavy frází id': [[1, 2, 5], [9], [11, 12, 15, 19, 22, 24]],
+ 'id věty': 93,
+ 'predikáty form': ['pamatujte', 'řekl', 'kouří'],
+ 'predikáty id': [3, 7, 20]}
+
+{'délka v počtu klauzí': 1,
+ 'délky klauzí': [3],
+ 'hlavy frází form': [['to', 'už', 'zvykům']],
+ 'hlavy frází id': [[1, 2, 7]],
+ 'id věty': 94,
+ 'predikáty form': ['patří'],
+ 'predikáty id': [3]}
+
+{'délka v počtu klauzí': 1,
+ 'délky klauzí': [4],
+ 'hlavy frází form': [['A', 'pak', 'si', 'pana']],
+ 'hlavy frází id': [[1, 2, 3, 5]],
+ 'id věty': 95,
+ 'predikáty form': ['zavolal'],
+ 'predikáty id': [4]}
+
+{'délka v počtu klauzí': 1,
+ 'délky klauzí': [3],
+ 'hlavy frází form': [['Pane', 'mu', 'byl']],
+ 'hlavy frází id': [[1, 5, 13]],
+ 'id věty': 96,
+ 'predikáty form': ['řekl'],
+ 'predikáty id': [4]}
+
+{'délka v počtu klauzí': 3,
+ 'délky klauzí': [2, 4, 2],
+ 'hlavy frází form': [['Byl', 'pan'],
+                      ['ale', 'on', 'pan', 'nikdy'],
+                      ['bychom', 'tom']],
+ 'hlavy frází id': [[1, 4], [7, 8, 9, 11], [15, 17]],
+ 'id věty': 97,
+ 'predikáty form': ['řekl', 'nechtěl', 'mluvili'],
+ 'predikáty id': [3, 12, 18]}
+
+{'délka v počtu klauzí': 2,
+ 'délky klauzí': [3, 2],
+ 'hlavy frází form': [['Vy', 'si', 'kůží'], ['nám', 'není']],
+ 'hlavy frází id': [[1, 2, 4], [7, 14]],
+ 'id věty': 98,
+ 'predikáty form': ['hleďte', 'říkal'],
+ 'predikáty id': [3, 6]}
+
+{'délka v počtu klauzí': 1,
+ 'délky klauzí': [3],
+ 'hlavy frází form': [['to', 'je', 'má']],
+ 'hlavy frází id': [[1, 2, 3]],
+ 'id věty': 99,
+ 'predikáty form': ['věc'],
+ 'predikáty id': [4]}
+
+{'délka v počtu klauzí': 3,
+ 'délky klauzí': [2, 1, 4],
+ 'hlavy frází form': [['To', 'se'],
+                      ['pan'],
+                      ['protože', 'to', 'jsou', 'pašované']],
+ 'hlavy frází id': [[1, 2], [6], [9, 10, 11, 12]],
+ 'id věty': 100,
+ 'predikáty form': ['rozumí', 'povídá', 'koberce'],
+ 'predikáty id': [3, 5, 13]}
+
+{'délka v počtu klauzí': 2,
+ 'délky klauzí': [1, 2],
+ 'hlavy frází form': [['se'], ['jeden', 'plombu']],
+ 'hlavy frází id': [[2], [5, 10]],
+ 'id věty': 101,
+ 'predikáty form': ['koukejte', 'nemá'],
+ 'predikáty id': [1, 8]}
+
+{'délka v počtu klauzí': 3,
+ 'délky klauzí': [5, 3, 3],
+ 'hlavy frází form': [['nebyl', 'tak', 'by', 'tím', 'opletačky'],
+                      ['a', 'by', 'pokutu'],
+                      ['až', 'by', 'byl']],
+ 'hlavy frází id': [[5, 9, 10, 12, 15], [19, 21, 22], [24, 25, 26]],
+ 'id věty': 102,
+ 'predikáty form': ['měl', 'platil', 'modrý'],
+ 'predikáty id': [13, 20, 27]}
+
+{'délka v počtu klauzí': 1,
+ 'délky klauzí': [2],
+ 'hlavy frází form': [['honem', 'byl']],
+ 'hlavy frází id': [[2, 6]],
+ 'id věty': 103,
+ 'predikáty form': ['Tak'],
+ 'predikáty id': [1]}
+
+{'délka v počtu klauzí': 3,
+ 'délky klauzí': [1, 4, 3],
+ 'hlavy frází form': [['pan'],
+                      ['No', 'půl', 'autem', 'žid'],
+                      ['a', 'se', 'turecky']],
+ 'hlavy frází id': [[4], [1, 9, 13, 18], [25, 27, 28]],
+ 'id věty': 104,
+ 'predikáty form': ['řekl', 'přijel', 'ptá'],
+ 'predikáty id': [3, 11, 26]}
+
+{'délka v počtu klauzí': 1,
+ 'délky klauzí': [4],
+ 'hlavy frází form': [['Tak', 'jsem', 'mu', 'cestu']],
+ 'hlavy frází id': [[1, 2, 3, 5]],
+ 'id věty': 105,
+ 'predikáty form': ['ukázal'],
+ 'predikáty id': [4]}
+
+{'délka v počtu klauzí': 2,
+ 'délky klauzí': [3, 3],
+ 'hlavy frází form': [['A', 'ním', 'čahoun'], ['a', 'rameni', 'koberců']],
+ 'hlavy frází id': [[1, 3, 6], [19, 22, 26]],
+ 'id věty': 106,
+ 'predikáty form': ['šel', 'nesl'],
+ 'predikáty id': [4, 20]}
+
+{'délka v počtu klauzí': 2,
+ 'délky klauzí': [4, 2],
+ 'hlavy frází form': [['ještě', 'jsem', 'se', 'Václavem'], ['jak', 'to']],
+ 'hlavy frází id': [[1, 2, 3, 5], [8, 9]],
+ 'id věty': 107,
+ 'predikáty form': ['divil', 'unese'],
+ 'predikáty id': [6, 10]}
+
+{'délka v počtu klauzí': 1,
+ 'délky klauzí': [4],
+ 'hlavy frází form': [['Tak', 'ti', 'kontoru', 'byli']],
+ 'hlavy frází id': [[1, 2, 6, 8]],
+ 'id věty': 108,
+ 'predikáty form': ['šli'],
+ 'predikáty id': [4]}
+
+{'délka v počtu klauzí': 2,
+ 'délky klauzí': [5, 4],
+ 'hlavy frází form': [['my', 'jsme', 'se', 'to', 'bylo'],
+                      ['jak', 'ten', 'neppr', 'panem']],
+ 'hlavy frází id': [[1, 2, 3, 5, 10], [14, 15, 16, 19]],
+ 'id věty': 109,
+ 'predikáty form': ['nestarali', 'hovoří'],
+ 'predikáty id': [6, 17]}
+
+{'délka v počtu klauzí': 4,
+ 'délky klauzí': [5, 3, 2, 5],
+ 'hlavy frází form': [['Pak', 'teda', 'zas', 'sluha', 'dolů'],
+                      ['a', 'rameni', 'koberce'],
+                      ['jsem', 'si'],
+                      ['aha', 'to', 'pan', 'zas', 'kus']],
+ 'hlavy frází id': [[1, 2, 3, 6, 7],
+                    [8, 11, 15],
+                    [20, 21],
+                    [17, 23, 24, 26, 28]],
+ 'id věty': 110,
+ 'predikáty form': ['slízal', 'nesl', 'řekl', 'koupil'],
+ 'predikáty id': [4, 9, 19, 29]}
+
+{'délka v počtu klauzí': 3,
+ 'délky klauzí': [5, 5, 2],
+ 'hlavy frází form': [['a', 'Armén', 'se', 'dveřích', 'co'],
+                      ['a', 'ještě', 'něco', 'panu', 'kontoru'],
+                      ['tomu', 'jsem']],
+ 'hlavy frází id': [[3, 5, 6, 8, 21], [11, 12, 13, 14, 17], [23, 24]],
+ 'id věty': 111,
+ 'predikáty form': ['obrátil', 'povídal', 'nerozuměl'],
+ 'predikáty id': [10, 18, 25]}
+
+{'délka v počtu klauzí': 2,
+ 'délky klauzí': [6, 1],
+ 'hlavy frází form': [['No', 'a', 'pak', 'čahoun', 'koberce', 'auta'], ['a']],
+ 'hlavy frází id': [[1, 3, 4, 6, 9, 11], [12]],
+ 'id věty': 112,
+ 'predikáty form': ['hodil', 'odjeli'],
+ 'predikáty id': [7, 13]}
+
+{'délka v počtu klauzí': 2,
+ 'délky klauzí': [6, 1],
+ 'hlavy frází form': [['Já', 'jsem', 'to', 'proto', 'nebylo', 'jo'], ['pan']],
+ 'hlavy frází id': [[1, 2, 3, 6, 11, 16], [19]],
+ 'id věty': 113,
+ 'predikáty form': ['neříkal', 'řekl'],
+ 'predikáty id': [4, 18]}
+
+{'délka v počtu klauzí': 2,
+ 'délky klauzí': [2, 4],
+ 'hlavy frází form': [['tepichářů', 'nás'], ['a', 'všichni', 'jsou', 'stejní']],
+ 'hlavy frází id': [[2, 4], [7, 8, 9, 10]],
+ 'id věty': 114,
+ 'predikáty form': ['bývalo', 'zloději'],
+ 'predikáty id': [5, 11]}
+
+{'délka v počtu klauzí': 5,
+ 'délky klauzí': [2, 3, 1, 5, 0],
+ 'hlavy frází form': [['pane', 'Hugo'],
+                      ['to', 'pan', 'bylo'],
+                      ['byste'],
+                      ['on', 'čahoun', 'totiž', 'koberci', 'mrtvolu'],
+                      []],
+ 'hlavy frází id': [[3, 4], [8, 10, 23], [14], [25, 27, 28, 33, 35], []],
+ 'id věty': 115,
+ 'predikáty form': ['Víte', 'řekl', 'věděl', 'odnášel', 'rozumíte'],
+ 'predikáty id': [1, 6, 15, 34, 39]}
+
+{'délka v počtu klauzí': 2,
+ 'délky klauzí': [5, 4],
+ 'hlavy frází form': [['Kristapána', 'člověče', 'vždyť', 'jste', 'všimnout'],
+                      ['že', 'chlap', 'dolů', 'tíž']],
+ 'hlavy frází id': [[1, 3, 5, 6, 9], [11, 13, 15, 16]],
+ 'id věty': 116,
+ 'predikáty form': ['mohl', 'šel'],
+ 'predikáty id': [8, 14]}
+
+{'délka v počtu klauzí': 4,
+ 'délky klauzí': [2, 1, 1, 2],
+ 'hlavy frází form': [['To', 'je'], ['Hugo'], ['a'], ['vždyť', 'on']],
+ 'hlavy frází id': [[1, 2], [7], [8], [11, 12]],
+ 'id věty': 117,
+ 'predikáty form': ['pravda', 'řekl', 'zbledl', 'šel'],
+ 'predikáty id': [3, 5, 9, 13]}
+
+{'délka v počtu klauzí': 1,
+ 'délky klauzí': [4],
+ 'hlavy frází form': [['Ale', 'komisaři', 'to', 'není']],
+ 'hlavy frází id': [[1, 3, 5, 6]],
+ 'id věty': 118,
+ 'predikáty form': ['možné'],
+ 'predikáty id': [7]}
+
+{'délka v počtu klauzí': 2,
+ 'délky klauzí': [3, 3],
+ 'hlavy frází form': [['on', 'Armén', 'ním'], ['a', 'panem', 'dveřích']],
+ 'hlavy frází id': [[1, 4, 7], [8, 11, 14]],
+ 'id věty': 119,
+ 'predikáty form': ['šel', 'hovořil'],
+ 'predikáty id': [5, 16]}
+
+{'délka v počtu klauzí': 2,
+ 'délky klauzí': [3, 1],
+ 'hlavy frází form': [['No', 'jo', 'doktor'], ['kontoru']],
+ 'hlavy frází id': [[1, 2, 5], [11]],
+ 'id věty': 120,
+ 'predikáty form': ['povídá', 'hovořil'],
+ 'predikáty id': [4, 8]}
+
+{'délka v počtu klauzí': 2,
+ 'délky klauzí': [4, 8],
+ 'hlavy frází form': [['když', 'předtím', 'čahoun', 'pana'],
+                      ['A',
+                       'tak',
+                       'pán',
+                       'taky',
+                       'přitom',
+                       'pořád',
+                       'hubou',
+                       'jo']],
+ 'hlavy frází id': [[2, 3, 5, 6], [1, 10, 12, 13, 14, 15, 17, 20]],
+ 'id věty': 121,
+ 'predikáty form': ['škrtil', 'mlel'],
+ 'predikáty id': [8, 16]}
+
+{'délka v počtu klauzí': 1,
+ 'délky klauzí': [4],
+ 'hlavy frází form': [['Pane', 'žid', 'je', 'vy']],
+ 'hlavy frází id': [[1, 6, 7, 10]],
+ 'id věty': 122,
+ 'predikáty form': ['chytřejší'],
+ 'predikáty id': [8]}
+
+{'délka v počtu klauzí': 3,
+ 'délky klauzí': [5, 1, 4],
+ 'hlavy frází form': [['A', 'pak', 'koberci', 'mrtvolu', 'hotelu'],
+                      ['protože'],
+                      ['ale', 'tak', 'koberec', 'barvu']],
+ 'hlavy frází id': [[1, 2, 6, 8, 13], [16], [15, 19, 25, 27]],
+ 'id věty': 123,
+ 'predikáty form': ['odvezli', 'pršelo', 'pustil'],
+ 'predikáty id': [7, 17, 26]}
+
+{'délka v počtu klauzí': 1,
+ 'délky klauzí': [4],
+ 'hlavy frází form': [['To', 'je', 'saldokonto', 'jo']],
+ 'hlavy frází id': [[1, 2, 5, 8]],
+ 'id věty': 124,
+ 'predikáty form': ['jasné'],
+ 'predikáty id': [3]}
+
+{'délka v počtu klauzí': 2,
+ 'délky klauzí': [4, 3],
+ 'hlavy frází form': [['A', 'hotelu', 'schránku', 'kufru'],
+                      ['a', 'kufr', 'nádraží']],
+ 'hlavy frází id': [[1, 3, 6, 10], [11, 12, 15]],
+ 'id věty': 125,
+ 'predikáty form': ['dali', 'poslali'],
+ 'predikáty id': [4, 13]}
+
+{'délka v počtu klauzí': 1,
+ 'délky klauzí': [4],
+ 'hlavy frází form': [['teda', 'tak', 'to', 'pane']],
+ 'hlavy frází id': [[1, 2, 4, 6]],
+ 'id věty': 126,
+ 'predikáty form': ['je'],
+ 'predikáty id': [3]}
+
+{'délka v počtu klauzí': 2,
+ 'délky klauzí': [3, 3],
+ 'hlavy frází form': [['zatímco', 'pan', 'tohle'], ['Tak', 'už', 'stopu']],
+ 'hlavy frází id': [[2, 3, 6], [1, 9, 11]],
+ 'id věty': 127,
+ 'predikáty form': ['dělal', 'našli'],
+ 'predikáty id': [5, 8]}
+
+{'délka v počtu klauzí': 5,
+ 'délky klauzí': [6, 4, 0, 5, 3],
+ 'hlavy frází form': [['Ona', 'totiž', 'kufru', 'nálepka', 'bylo', 'vidět'],
+                      ['že', 'Armén', 'pořádně', 'diškerece'],
+                      [],
+                      ['portýři', 'si', 'nálepkami', 'světě', 'znamení'],
+                      ['co', 'kunčofta', 'tuzérech']],
+ 'hlavy frází id': [[1, 2, 5, 7, 13, 15],
+                    [17, 19, 21, 23],
+                    [],
+                    [28, 31, 33, 37, 38],
+                    [40, 43, 46]],
+ 'id věty': 128,
+ 'predikáty form': ['byla', 'platil', 'víte', 'dávají', 'kouká'],
+ 'predikáty id': [6, 20, 25, 34, 44]}
+
+{'délka v počtu klauzí': 6,
+ 'délky klauzí': [3, 7, 2, 4, 3, 4],
+ 'hlavy frází form': [['protože', 'Armén', 'dobře'],
+                      ['A', 'tak', 'si', 'ho', 'portýr', 'taky', 'dobře'],
+                      ['se', 'Mazanian'],
+                      ['a', 'nejspíš', 'Prahu', 'Vídně'],
+                      ['ale', 'ho', 'Bukurešti'],
+                      ['tam', 'se', 'taky', 'vazbě']],
+ 'hlavy frází id': [[2, 4, 5],
+                    [1, 8, 9, 10, 13, 14, 15],
+                    [19, 20],
+                    [21, 23, 25, 27],
+                    [29, 31, 34],
+                    [36, 37, 38, 41]],
+ 'id věty': 129,
+ 'predikáty form': ['platil',
+                    'pamatoval',
+                    'jmenoval',
+                    'jel',
+                    'čapli',
+                    'oběsil'],
+ 'predikáty id': [6, 16, 18, 22, 30, 42]}
+
+{'délka v počtu klauzí': 4,
+ 'délky klauzí': [2, 2, 3, 3],
+ 'hlavy frází form': [['Proč', 'pana'],
+                      ['to', 'žádný'],
+                      ['nejspíš', 'spolu', 'spor'],
+                      ['z', 'té', 'byl']],
+ 'hlavy frází id': [[1, 3], [7, 8], [11, 13, 16], [17, 18, 24]],
+ 'id věty': 130,
+ 'predikáty form': ['zavraždil', 'neví', 'měli', 'doby'],
+ 'predikáty id': [5, 9, 12, 19]}
+
+{'délka v počtu klauzí': 2,
+ 'délky klauzí': [3, 5],
+ 'hlavy frází form': [['je', 'pan', 'zamyšleně'],
+                      ['že', 'hlavní', 'obchodu', 'je', 'solidnost']],
+ 'hlavy frází id': [[5, 9, 11], [13, 14, 17, 18, 19]],
+ 'id věty': 131,
+ 'predikáty form': ['končil', 'věc'],
+ 'predikáty id': [8, 15]}
+
+{'délka v počtu klauzí': 4,
+ 'délky klauzí': [3, 3, 5, 3],
+ 'hlavy frází form': [['by', 'Armén', 'koberce'],
+                      ['co', 'nejsou', 'anilínem'],
+                      ['nebyli', 'by', 'to', 'tak', 'hned'],
+                      ['jak', 'pana', 'jo']],
+ 'hlavy frází id': [[2, 4, 7], [9, 10, 14], [16, 17, 19, 20, 21], [24, 26, 31]],
+ 'id věty': 132,
+ 'predikáty form': ['vedl', 'barvené', 'přišli', 'odklidil'],
+ 'predikáty id': [5, 11, 22, 28]}
+
+{'délka v počtu klauzí': 1,
+ 'délky klauzí': [5],
+ 'hlavy frází form': [['Ale', 'prodávat', 'to', 'se', 'jednomu']],
+ 'hlavy frází id': [[1, 2, 5, 6, 7]],
+ 'id věty': 133,
+ 'predikáty form': ['vymstí'],
+ 'predikáty id': [8]}
+

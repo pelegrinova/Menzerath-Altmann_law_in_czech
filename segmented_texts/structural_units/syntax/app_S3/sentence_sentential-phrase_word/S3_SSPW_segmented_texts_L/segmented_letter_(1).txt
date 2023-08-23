@@ -1,0 +1,800 @@
+{'délka v počtu frází': 2,
+ 'délky frází': [1, 7],
+ 'hlavy frází form': ['Olgo', 'slabost'],
+ 'hlavy frází id': [3, 7],
+ 'id věty': 1,
+ 'root form': 'Odpusťte',
+ 'root id': 1,
+ 'slova frází form': [['Olgo'], ['slabost', 'je', 'to', 'píšu', 'že', 'Vám', 'zase']],
+ 'slova frází id': [[3], [7, 5, 6, 12, 9, 10, 11]]}
+
+{'délka v počtu frází': 4,
+ 'délky frází': [1, 1, 2, 30],
+ 'hlavy frází form': ['jste', 'mi', 'odpovědí', 'dále'],
+ 'hlavy frází id': [1, 2, 5, 8],
+ 'id věty': 2,
+ 'root form': 'dlužna',
+ 'root id': 3,
+ 'slova frází form': [['jste'],
+                      ['mi'],
+                      ['odpovědí', 'tolik'],
+                      ['dále',
+                       'a',
+                       'tak',
+                       'hanba',
+                       'že',
+                       'je',
+                       'mi',
+                       'sebou',
+                       'nemám',
+                       'před',
+                       'Vámi',
+                       'že',
+                       'trpělivosti',
+                       'i',
+                       'před',
+                       'vyčkat',
+                       'najdete',
+                       'až',
+                       'chvilku',
+                       'volnou',
+                       'vůli',
+                       'nebo',
+                       'dobrou',
+                       'napsat',
+                       'mi',
+                       'pár',
+                       'zavolat',
+                       'slov',
+                       'nebo',
+                       'mne']],
+ 'slova frází id': [[1], [2], [5, 4], [8, 6, 7, 13, 10, 11, 12, 15, 21, 14, 18, 20, 22, 16, 17, 23, 26, 25, 28, 27, 31, 29, 30, 32, 33, 34, 38, 35, 36, 37]]}
+
+{'délka v počtu frází': 6,
+ 'délky frází': [1, 1, 1, 1, 1, 5],
+ 'hlavy frází form': ['Ale', 'psát', 'je', 'dnes', 'jediný', 'mohl'],
+ 'hlavy frází id': [1, 2, 3, 4, 5, 10],
+ 'id věty': 3,
+ 'root form': 'prostředek',
+ 'root id': 6,
+ 'slova frází form': [['Ale'], ['psát'], ['je'], ['dnes'], ['jediný'], ['mohl', 'bych', 'mluvit', 'Vám', 'k']],
+ 'slova frází id': [[1], [2], [3], [4], [5], [10, 9, 13, 12, 11]]}
+
+{'délka v počtu frází': 2,
+ 'délky frází': [6, 7],
+ 'hlavy frází form': ['je', 'mohu'],
+ 'hlavy frází id': [3, 10],
+ 'id věty': 4,
+ 'root form': 'mluvím',
+ 'root id': 8,
+ 'slova frází form': [['je', 'i', 'to', 'odpovědi', 'když', 'bez'], ['mohu', 'a', 'unést', 'hodinku', 'aspoň', 'jednu', 'těžkou']],
+ 'slova frází id': [[3, 1, 4, 6, 2, 5], [10, 9, 11, 15, 12, 13, 14]]}
+
+{'délka v počtu frází': 3,
+ 'délky frází': [2, 1, 2],
+ 'hlavy frází form': ['dopíšu', 'mi', 'hůře'],
+ 'hlavy frází id': [2, 5, 7],
+ 'id věty': 5,
+ 'root form': 'bude',
+ 'root id': 4,
+ 'slova frází form': [['dopíšu', 'až'], ['mi'], ['hůře', 'tím']],
+ 'slova frází id': [[2, 1], [5], [7, 6]]}
+
+{'délka v počtu frází': 4,
+ 'délky frází': [1, 1, 1, 15],
+ 'hlavy frází form': ['Tak', 'tedy', 'jsem', 'potěšení'],
+ 'hlavy frází id': [1, 2, 5, 7],
+ 'id věty': 6,
+ 'root form': 'měl',
+ 'root id': 4,
+ 'slova frází form': [['Tak'], ['tedy'], ['jsem'], ['potěšení', 'to', 'vidět', 'potěšení', 'Vás', 'pátek', 'a', 'menší', 'čekat', 'v', 'sobotu', 'nádraží', 'v', 'na', 'Smíchovském']],
+ 'slova frází id': [[1], [2], [5], [7, 6, 8, 14, 9, 11, 12, 13, 15, 10, 17, 20, 16, 18, 19]]}
+
+{'délka v počtu frází': 0, 'délky frází': [], 'hlavy frází form': [], 'hlavy frází id': [], 'id věty': 7, 'root form': None, 'root id': 'není', 'slova frází form': [], 'slova frází id': []}
+
+{'délka v počtu frází': 0, 'délky frází': [], 'hlavy frází form': [], 'hlavy frází id': [], 'id věty': 8, 'root form': None, 'root id': 'není', 'slova frází form': [], 'slova frází id': []}
+
+{'délka v počtu frází': 4,
+ 'délky frází': [2, 1, 1, 3],
+ 'hlavy frází form': ['dny', 'mně', 'duše', 'pokoji'],
+ 'hlavy frází id': [2, 3, 5, 8],
+ 'id věty': 9,
+ 'root form': 'mrzla',
+ 'root id': 4,
+ 'slova frází form': [['dny', 'čtyři'], ['mně'], ['duše'], ['pokoji', 'v', 'přetopeném']],
+ 'slova frází id': [[2, 1], [3], [5], [8, 6, 7]]}
+
+{'délka v počtu frází': 7,
+ 'délky frází': [1, 1, 2, 1, 1, 2, 12],
+ 'hlavy frází form': ['A', 'dnes', 'noci', 'se', 'mi', 'Vás', 'sen'],
+ 'hlavy frází id': [1, 2, 4, 5, 6, 8, 15],
+ 'id věty': 10,
+ 'root form': 'zdálo',
+ 'root id': 9,
+ 'slova frází form': [['A'], ['dnes'], ['noci', 'v'], ['se'], ['mi'], ['Vás', 'o'], ['sen', 'byl', 'to', 'krásný', 'nemohu', 'tak', 'že', 'nesmím', 'povědít', 'Vám', 'jej', 'a']],
+ 'slova frází id': [[1], [2], [4, 3], [5], [6], [8, 7], [15, 11, 12, 14, 20, 13, 17, 22, 23, 18, 19, 21]]}
+
+{'délka v počtu frází': 4,
+ 'délky frází': [1, 2, 1, 1],
+ 'hlavy frází form': ['A', 'poledne', 'jsem', 'Vás'],
+ 'hlavy frází id': [1, 3, 4, 5],
+ 'id věty': 11,
+ 'root form': 'viděl',
+ 'root id': 6,
+ 'slova frází form': [['A'], ['poledne', 'v'], ['jsem'], ['Vás']],
+ 'slova frází id': [[1], [3, 2], [4], [5]]}
+
+{'délka v počtu frází': 4,
+ 'délky frází': [1, 1, 4, 6],
+ 'hlavy frází form': ['jste', 'mně', 'ruku', 'cizí'],
+ 'hlavy frází id': [2, 3, 7, 14],
+ 'id věty': 12,
+ 'root form': 'podala',
+ 'root id': 1,
+ 'slova frází form': [['jste'], ['mně'], ['ruku', 'jakousi', 'maličkou', 'cizí'], ['cizí', 'a', 'byla', 'jste', 'vůbec', 'jakoby']],
+ 'slova frází id': [[2], [3], [7, 4, 5, 6], [14, 9, 10, 11, 12, 13]]}
+
+{'délka v počtu frází': 5,
+ 'délky frází': [1, 1, 1, 7, 17],
+ 'hlavy frází form': ['stěží', 'jsem', 'Vás', 'připadlo', 'nejste'],
+ 'hlavy frází id': [1, 2, 3, 6, 20],
+ 'id věty': 13,
+ 'root form': 'poznal',
+ 'root id': 4,
+ 'slova frází form': [['stěží'],
+                      ['jsem'],
+                      ['Vás'],
+                      ['připadlo', 'mně', 'ztloustla', 'že', 'jste', 'co', 'či'],
+                      ['nejste', 'a', 'že', 'už', 'snad', 'vůbec', 'přišla', 'že', 'Vás', 'holčička', 'místo', 'jakási', 'jiná', 'neví', 'která', 'ničem', 'o']],
+ 'slova frází id': [[1], [2], [3], [6, 7, 11, 9, 10, 13, 12], [20, 15, 16, 17, 18, 19, 25, 22, 24, 28, 23, 26, 27, 33, 30, 32, 31]]}
+
+{'délka v počtu frází': 5,
+ 'délky frází': [1, 1, 1, 1, 3],
+ 'hlavy frází form': ['Teď', 'odpoledne', 'jsem', 'se', 'profesora'],
+ 'hlavy frází id': [1, 2, 3, 4, 7],
+ 'id věty': 14,
+ 'root form': 'vrátil',
+ 'root id': 5,
+ 'slova frází form': [['Teď'], ['odpoledne'], ['jsem'], ['se'], ['profesora', 'od', 'Syllaby']],
+ 'slova frází id': [[1], [2], [3], [4], [7, 6, 8]]}
+
+{'délka v počtu frází': 4,
+ 'délky frází': [1, 3, 6, 14],
+ 'hlavy frází form': ['jsem', 'lék', 'tahal', 'řekl'],
+ 'hlavy frází id': [2, 3, 7, 15],
+ 'id věty': 15,
+ 'root form': 'chtěl',
+ 'root id': 1,
+ 'slova frází form': [['jsem'],
+                      ['lék', 'nespavosti', 'proti'],
+                      ['tahal', 'se', 'mnou', 'půl', 'se', 'hodiny'],
+                      ['řekl', 'a', 'pak', 'není', 'Tady', 'příčina', 'trápí', 'žádná', 'tělesná', 'nespavosti', 'vás', 'něco', 'k', 'těžkého']],
+ 'slova frází id': [[2], [3, 5, 4], [7, 8, 10, 11, 9, 12], [15, 13, 14, 18, 17, 21, 26, 19, 20, 23, 25, 27, 22, 28]]}
+
+{'délka v počtu frází': 2,
+ 'délky frází': [1, 4],
+ 'hlavy frází form': ['já', 'pomoci'],
+ 'hlavy frází id': [3, 6],
+ 'id věty': 16,
+ 'root form': 'nemohu',
+ 'root id': 5,
+ 'slova frází form': [['já'], ['pomoci', 'tom', 'vám', 'v']],
+ 'slova frází id': [[3], [6, 2, 4, 1]]}
+
+{'délka v počtu frází': 0, 'délky frází': [], 'hlavy frází form': [], 'hlavy frází id': [], 'id věty': 17, 'root form': None, 'root id': 'není', 'slova frází form': [], 'slova frází id': []}
+
+{'délka v počtu frází': 2,
+ 'délky frází': [2, 2],
+ 'hlavy frází form': ['já', 'pomoci'],
+ 'hlavy frází id': [2, 5],
+ 'id věty': 18,
+ 'root form': 'nemohu',
+ 'root id': 4,
+ 'slova frází form': [['já', 'Ani'], ['pomoci', 'si']],
+ 'slova frází id': [[2, 1], [5, 3]]}
+
+{'délka v počtu frází': 3,
+ 'délky frází': [1, 1, 13],
+ 'hlavy frází form': ['toho', 'je', 'píšu'],
+ 'hlavy frází id': [2, 3, 9],
+ 'id věty': 19,
+ 'root form': 'důkaz',
+ 'root id': 1,
+ 'slova frází form': [['toho'], ['je'], ['píšu', 'že', 'přesvědčení', 'dopis', 'dívám', 'proti', 'lepšímu', 'zbytečný', 'a', 'se', 'šeří', 'jak', 'se']],
+ 'slova frází id': [[2], [3], [9, 5, 8, 11, 13, 6, 7, 10, 12, 14, 18, 16, 17]]}
+
+{'délka v počtu frází': 0, 'délky frází': [], 'hlavy frází form': [], 'hlavy frází id': [], 'id věty': 20, 'root form': None, 'root id': 'není', 'slova frází form': [], 'slova frází id': []}
+
+{'délka v počtu frází': 3,
+ 'délky frází': [5, 1, 5],
+ 'hlavy frází form': ['čekal', 'jsem', 'přinese'],
+ 'hlavy frází id': [5, 8, 14],
+ 'id věty': 21,
+ 'root form': 'myslel',
+ 'root id': 7,
+ 'slova frází form': [['čekal', 'když', 'jsem', 'jej', 'včera'], ['jsem'], ['přinese', 'že', 'mi', 'třeba', 'něco']],
+ 'slova frází id': [[5, 1, 2, 3, 4], [8], [14, 10, 11, 12, 13]]}
+
+{'délka v počtu frází': 2,
+ 'délky frází': [10, 4],
+ 'hlavy frází form': ['Holčičko', 'chtěl'],
+ 'hlavy frází id': [1, 19],
+ 'id věty': 22,
+ 'root form': 'víte',
+ 'root id': 14,
+ 'slova frází form': [['Holčičko', 'jednáte', 'která', 'mnou', 'zvyklá', 'se', 'jako', 'jste', 'jinými', 's'], ['chtěl', 'co', 'bych', 'strašně']],
+ 'slova frází id': [[1, 6, 3, 5, 10, 4, 8, 9, 12, 11], [19, 16, 17, 18]]}
+
+{'délka v počtu frází': 5,
+ 'délky frází': [1, 1, 1, 1, 4],
+ 'hlavy frází form': ['byste', 'byla', 'jen', 'nějakou', 'děvčetem'],
+ 'hlavy frází id': [2, 3, 4, 5, 8],
+ 'id věty': 23,
+ 'root form': 'písařkou',
+ 'root id': 6,
+ 'slova frází form': [['byste'], ['byla'], ['jen'], ['nějakou'], ['děvčetem', 'nebo', 'obchodu', 'z']],
+ 'slova frází id': [[2], [3], [4], [5], [8, 7, 10, 9]]}
+
+{'délka v počtu frází': 0, 'délky frází': [], 'hlavy frází form': [], 'hlavy frází id': [], 'id věty': 24, 'root form': None, 'root id': 'není', 'slova frází form': [], 'slova frází id': []}
+
+{'délka v počtu frází': 2,
+ 'délky frází': [1, 6],
+ 'hlavy frází form': ['byste', 'ručičky'],
+ 'hlavy frází id': [2, 4],
+ 'id věty': 25,
+ 'root form': 'Měla',
+ 'root id': 1,
+ 'slova frází form': [['byste'], ['ručičky', 'chladné', 'dojímaly', 'které', 'by', 'mne']],
+ 'slova frází id': [[2], [4, 3, 9, 6, 7, 8]]}
+
+{'délka v počtu frází': 2,
+ 'délky frází': [1, 11],
+ 'hlavy frází form': ['byste', 'myslet'],
+ 'hlavy frází id': [2, 4],
+ 'id věty': 26,
+ 'root form': 'neměla',
+ 'root id': 1,
+ 'slova frází form': [['byste'], ['myslet', 'nač', 'frajera', 'než', 'na', 'svého', 'denního', 'neděli', 'a', 'na', 'sváteční']],
+ 'slova frází id': [[2], [4, 3, 9, 5, 6, 7, 8, 13, 10, 11, 12]]}
+
+{'délka v počtu frází': 3,
+ 'délky frází': [1, 11, 1],
+ 'hlavy frází form': ['byste', 'mne', 'tak'],
+ 'hlavy frází id': [2, 3, 4],
+ 'id věty': 27,
+ 'root form': 'potřebovala',
+ 'root id': 1,
+ 'slova frází form': [['byste'], ['mne', 'zrcadélka', 'jako', 'svého', 'rukavic', 'jako', 'svých', 'nitěných', 'postýlky', 'jako', 'své'], ['tak']],
+ 'slova frází id': [[2], [3, 7, 5, 6, 12, 9, 10, 11, 16, 14, 15], [4]]}
+
+{'délka v počtu frází': 4,
+ 'délky frází': [1, 1, 1, 4],
+ 'hlavy frází form': ['Ale', 'Vy', 'jste', 'myslíte'],
+ 'hlavy frází id': [1, 2, 3, 6],
+ 'id věty': 28,
+ 'root form': 'herečka',
+ 'root id': 4,
+ 'slova frází form': [['Ale'], ['Vy'], ['jste'], ['myslíte', 'a', 'umění', 'na']],
+ 'slova frází id': [[1], [2], [3], [6, 5, 8, 7]]}
+
+{'délka v počtu frází': 0, 'délky frází': [], 'hlavy frází form': [], 'hlavy frází id': [], 'id věty': 29, 'root form': None, 'root id': 'není', 'slova frází form': [], 'slova frází id': []}
+
+{'délka v počtu frází': 3,
+ 'délky frází': [1, 5, 7],
+ 'hlavy frází form': ['Ach', 'chcete', 'podstoupit'],
+ 'hlavy frází id': [1, 3, 10],
+ 'id věty': 30,
+ 'root form': 'musíte',
+ 'root id': 9,
+ 'slova frází form': [['Ach'], ['chcete', 'li', 'umělkyní', 'být', 'velkou'], ['podstoupit', 'muka', 'člověkem', 'ta', 'a', 'být', 'velkým']],
+ 'slova frází id': [[1], [3, 4, 7, 5, 6], [10, 12, 16, 11, 13, 14, 15]]}
+
+{'délka v počtu frází': 5,
+ 'délky frází': [1, 1, 1, 1, 2],
+ 'hlavy frází form': ['Ptáčku', 'ptáčku', 'to', 'není', 'veselá'],
+ 'hlavy frází id': [1, 3, 5, 6, 8],
+ 'id věty': 31,
+ 'root form': 'věc',
+ 'root id': 9,
+ 'slova frází form': [['Ptáčku'], ['ptáčku'], ['to'], ['není'], ['veselá', 'nikterak']],
+ 'slova frází id': [[1], [3], [5], [6], [8, 7]]}
+
+{'délka v počtu frází': 2,
+ 'délky frází': [1, 5],
+ 'hlavy frází form': ['To', 'mračit'],
+ 'hlavy frází id': [1, 3],
+ 'id věty': 32,
+ 'root form': 'neznamená',
+ 'root id': 2,
+ 'slova frází form': [['To'], ['mračit', 'se', 'tragický', 'a', 'být']],
+ 'slova frází id': [[1], [3, 4, 7, 5, 6]]}
+
+{'délka v počtu frází': 2,
+ 'délky frází': [1, 3],
+ 'hlavy frází form': ['to', 'obětovat'],
+ 'hlavy frází id': [2, 4],
+ 'id věty': 33,
+ 'root form': 'Znamená',
+ 'root id': 1,
+ 'slova frází form': [['to'], ['obětovat', 'mnoho', 'životu']],
+ 'slova frází id': [[2], [4, 3, 5]]}
+
+{'délka v počtu frází': 0, 'délky frází': [], 'hlavy frází form': [], 'hlavy frází id': [], 'id věty': 34, 'root form': None, 'root id': 'není', 'slova frází form': [], 'slova frází id': []}
+
+{'délka v počtu frází': 0, 'délky frází': [], 'hlavy frází form': [], 'hlavy frází id': [], 'id věty': 35, 'root form': None, 'root id': 'není', 'slova frází form': [], 'slova frází id': []}
+
+{'délka v počtu frází': 4,
+ 'délky frází': [1, 2, 1, 1],
+ 'hlavy frází form': ['Ptáčku', 'čimčará', 'je', 'tak'],
+ 'hlavy frází id': [1, 4, 5, 6],
+ 'id věty': 36,
+ 'root form': 'krásné',
+ 'root id': 7,
+ 'slova frází form': [['Ptáčku'], ['čimčará', 'tvé'], ['je'], ['tak']],
+ 'slova frází id': [[1], [4, 3], [5], [6]]}
+
+{'délka v počtu frází': 2,
+ 'délky frází': [1, 2],
+ 'hlavy frází form': ['proč', 'člověkem'],
+ 'hlavy frází id': [1, 4],
+ 'id věty': 37,
+ 'root form': 'chceš',
+ 'root id': 2,
+ 'slova frází form': [['proč'], ['člověkem', 'být']],
+ 'slova frází id': [[1], [4, 3]]}
+
+{'délka v počtu frází': 4,
+ 'délky frází': [1, 1, 1, 35],
+ 'hlavy frází form': ['Je', 'to', 'nesnadná', 'zavazuje'],
+ 'hlavy frází id': [1, 2, 3, 6],
+ 'id věty': 38,
+ 'root form': 'věc',
+ 'root id': 4,
+ 'slova frází form': [['Je'],
+                      ['to'],
+                      ['nesnadná'],
+                      ['zavazuje',
+                       'tomu',
+                       'k',
+                       'dávat',
+                       'krev',
+                       'volný',
+                       'nezodpovědný',
+                       'pít',
+                       'prahnout',
+                       'svou',
+                       'duši',
+                       'nebýt',
+                       'nekonečně',
+                       'nebýt',
+                       'nádherně',
+                       'dychtivě',
+                       'ponížení',
+                       'tom',
+                       'docítil',
+                       'a',
+                       'svou',
+                       'po',
+                       'bys',
+                       'se',
+                       'tíhy',
+                       'trýzně',
+                       'strašnosti',
+                       'a',
+                       'a',
+                       'života',
+                       'nechytil',
+                       'který',
+                       'tě',
+                       'ptáčku',
+                       'dosud']],
+ 'slova frází id': [[1], [2], [3], [6, 8, 7, 10, 12, 19, 23, 26, 29, 11, 15, 17, 18, 21, 22, 25, 27, 31, 36, 13, 14, 30, 34, 35, 37, 39, 41, 38, 40, 42, 50, 44, 45, 47, 49]]}
+
+{'délka v počtu frází': 3,
+ 'délky frází': [1, 1, 4],
+ 'hlavy frází form': ['Nikdy', 'jsem', 'sám'],
+ 'hlavy frází id': [1, 2, 5],
+ 'id věty': 39,
+ 'root form': 'nebyl',
+ 'root id': 3,
+ 'slova frází form': [['Nikdy'], ['jsem'], ['sám', 'tak', 'teď', 'jako']],
+ 'slova frází id': [[1], [2], [5, 4, 7, 6]]}
+
+{'délka v počtu frází': 5,
+ 'délky frází': [1, 1, 1, 1, 4],
+ 'hlavy frází form': ['Nebyl', 'jsem', 'zdaleka', 'tak', 'neznal'],
+ 'hlavy frází id': [1, 2, 3, 4, 10],
+ 'id věty': 40,
+ 'root form': 'sám',
+ 'root id': 5,
+ 'slova frází form': [['Nebyl'], ['jsem'], ['zdaleka'], ['tak'], ['neznal', 'když', 'jsem', 'Vás']],
+ 'slova frází id': [[1], [2], [3], [4], [10, 7, 8, 9]]}
+
+{'délka v počtu frází': 4,
+ 'délky frází': [1, 1, 1, 2],
+ 'hlavy frází form': ['Teď', 'teprve', 'co', 'samota'],
+ 'hlavy frází id': [1, 2, 5, 7],
+ 'id věty': 41,
+ 'root form': 'poznávám',
+ 'root id': 3,
+ 'slova frází form': [['Teď'], ['teprve'], ['co'], ['samota', 'je']],
+ 'slova frází id': [[1], [2], [5], [7, 6]]}
+
+{'délka v počtu frází': 3,
+ 'délky frází': [5, 2, 20],
+ 'hlavy frází form': ['Ten', 'trýzeň', 'dívá'],
+ 'hlavy frází id': [1, 10, 12],
+ 'id věty': 42,
+ 'root form': 'vidí',
+ 'root id': 8,
+ 'slova frází form': [['Ten', 'nejbližší', 'který', 'mně', 'býval'],
+                      ['trýzeň', 'mou'],
+                      ['dívá',
+                       'a',
+                       'se',
+                       'ni',
+                       'netrpělivě',
+                       'pozoruje',
+                       'na',
+                       'nepřátelsky',
+                       'protože',
+                       'oddaluje',
+                       'skoro',
+                       'jak',
+                       'se',
+                       'tím',
+                       'oslabuje',
+                       'úspěch',
+                       'a',
+                       'možný',
+                       'práce',
+                       'společné']],
+ 'slova frází id': [[1, 6, 3, 4, 5], [10, 9], [12, 11, 13, 15, 16, 22, 14, 19, 21, 27, 18, 24, 25, 26, 29, 31, 28, 30, 33, 32]]}
+
+{'délka v počtu frází': 5,
+ 'délky frází': [3, 1, 1, 1, 3],
+ 'hlavy frází form': ['bože', 'jako', 'by', 'vůbec', 'úspěchu'],
+ 'hlavy frází id': [3, 5, 6, 7, 11],
+ 'id věty': 43,
+ 'root form': 'záleželo',
+ 'root id': 8,
+ 'slova frází form': [['bože', 'Můj', 'ty'], ['jako'], ['by'], ['vůbec'], ['úspěchu', 'na', 'nějakém']],
+ 'slova frází id': [[3, 1, 2], [5], [6], [7], [11, 9, 10]]}
+
+{'délka v počtu frází': 2,
+ 'délky frází': [3, 1],
+ 'hlavy frází form': ['knížky', 'jsou'],
+ 'hlavy frází id': [3, 4],
+ 'id věty': 44,
+ 'root form': 'mrtvé',
+ 'root id': 5,
+ 'slova frází form': [['knížky', 'Všechny', 'mé'], ['jsou']],
+ 'slova frází id': [[3, 1, 2], [4]]}
+
+{'délka v počtu frází': 1,
+ 'délky frází': [6],
+ 'hlavy frází form': ['lhostejno'],
+ 'hlavy frází id': [6],
+ 'id věty': 45,
+ 'root form': 'píšu',
+ 'root id': 1,
+ 'slova frází form': [['lhostejno', 'a', 'je', 'mi', 'píšu', 'co']],
+ 'slova frází id': [[6, 3, 4, 5, 9, 8]]}
+
+{'délka v počtu frází': 1,
+ 'délky frází': [6],
+ 'hlavy frází form': ['vytáhnu'],
+ 'hlavy frází id': [5],
+ 'id věty': 46,
+ 'root form': 'stačí',
+ 'root id': 1,
+ 'slova frází form': [['vytáhnu', 'že', 'to', 'maličko', 'prostřednost', 'nad']],
+ 'slova frází id': [[5, 3, 4, 6, 8, 7]]}
+
+{'délka v počtu frází': 2,
+ 'délky frází': [5, 4],
+ 'hlavy frází form': ['přilnout', 'nemůže'],
+ 'hlavy frází id': [6, 10],
+ 'id věty': 47,
+ 'root form': 'nemohu',
+ 'root id': 5,
+ 'slova frází form': [['přilnout', 'ničemu', 'K', 'světě', 'na'], ['nemůže', 'nic', 'přivábit', 'mne']],
+ 'slova frází id': [[6, 2, 1, 4, 3], [10, 8, 11, 9]]}
+
+{'délka v počtu frází': 6,
+ 'délky frází': [1, 1, 2, 4, 8, 15],
+ 'hlavy frází form': ['jsem', 'rád', 'práci', 'cizí', 'měl', 'chtěl'],
+ 'hlavy frází id': [2, 3, 5, 10, 12, 23],
+ 'id věty': 48,
+ 'root form': 'Měl',
+ 'root id': 1,
+ 'slova frází form': [['jsem'],
+                      ['rád'],
+                      ['práci', 'svou'],
+                      ['cizí', 'a', 'je', 'mi'],
+                      ['měl', 'jsem', 'rád', 'něco', 'že', 'brzo', 'jsem', 'tak'],
+                      ['chtěl', 'a', 'bych', 'teď', 'položit', 'všechno', 'opustit', 'odejet', 'všechno', 'a', 'někam', 'nebyl', 'kde', 'bych', 'nic']],
+ 'slova frází id': [[2], [3], [5, 4], [10, 7, 8, 9], [12, 13, 14, 19, 16, 18, 20, 17], [23, 22, 24, 25, 26, 27, 29, 32, 30, 31, 33, 38, 35, 36, 37]]}
+
+{'délka v počtu frází': 5,
+ 'délky frází': [1, 1, 4, 4, 13],
+ 'hlavy frází form': ['jsem', 'rád', 'obrázky', 'blízké', 'chtěl'],
+ 'hlavy frází id': [2, 3, 5, 10, 14],
+ 'id věty': 49,
+ 'root form': 'Měl',
+ 'root id': 1,
+ 'slova frází form': [['jsem'],
+                      ['rád'],
+                      ['obrázky', 'své', 'stěnách', 'na'],
+                      ['blízké', 'byly', 'duši', 'mé'],
+                      ['chtěl', 'bych', 'sundal', 'by', 'je', 'někdo', 'byly', 'a', 'nich', 'stopy', 'po', 'jen', 'pavučinové']],
+ 'slova frází id': [[2], [3], [5, 4, 7, 6], [10, 9, 12, 11], [14, 15, 21, 18, 19, 20, 23, 22, 25, 28, 24, 26, 27]]}
+
+{'délka v počtu frází': 4,
+ 'délky frází': [1, 1, 1, 4],
+ 'hlavy frází form': ['jsem', 'rád', 'lidi', 'ach'],
+ 'hlavy frází id': [2, 3, 4, 6],
+ 'id věty': 50,
+ 'root form': 'Měl',
+ 'root id': 1,
+ 'slova frází form': [['jsem'], ['rád'], ['lidi'], ['ach', 'překážejí', 'jak', 'mi']],
+ 'slova frází id': [[2], [3], [4], [6, 10, 8, 9]]}
+
+{'délka v počtu frází': 3,
+ 'délky frází': [3, 1, 5],
+ 'hlavy frází form': ['oni', 'mne', 'dusí'],
+ 'hlavy frází id': [2, 4, 11],
+ 'id věty': 51,
+ 'root form': 'měli',
+ 'root id': 3,
+ 'slova frází form': [['oni', 'I', 'rádi'], ['mne'], ['dusí', 'a', 'blízkost', 'mne', 'jejich']],
+ 'slova frází id': [[2, 1, 5], [4], [11, 7, 9, 10, 8]]}
+
+{'délka v počtu frází': 3,
+ 'délky frází': [1, 1, 4],
+ 'hlavy frází form': ['bych', 'odejet', 'cestoval'],
+ 'hlavy frází id': [2, 3, 9],
+ 'id věty': 52,
+ 'root form': 'Chtěl',
+ 'root id': 1,
+ 'slova frází form': [['bych'], ['odejet'], ['cestoval', 'ale', 'ne', 'bych']],
+ 'slova frází id': [[2], [3], [9, 5, 6, 8]]}
+
+{'délka v počtu frází': 0, 'délky frází': [], 'hlavy frází form': [], 'hlavy frází id': [], 'id věty': 53, 'root form': None, 'root id': 'není', 'slova frází form': [], 'slova frází id': []}
+
+{'délka v počtu frází': 3,
+ 'délky frází': [1, 3, 3],
+ 'hlavy frází form': ['bych', 'přinést', 'nemám'],
+ 'hlavy frází id': [2, 4, 8],
+ 'id věty': 54,
+ 'root form': 'Chtěl',
+ 'root id': 1,
+ 'slova frází form': [['bych'], ['přinést', 'něčemu', 'oběť'], ['nemám', 'ale', 'čemu']],
+ 'slova frází id': [[2], [4, 3, 5], [8, 7, 9]]}
+
+{'délka v počtu frází': 4,
+ 'délky frází': [1, 1, 1, 3],
+ 'hlavy frází form': ['a', 'to', 'je', 'nejhorší'],
+ 'hlavy frází id': [1, 2, 3, 5],
+ 'id věty': 55,
+ 'root form': 'to',
+ 'root id': 4,
+ 'slova frází form': [['a'], ['to'], ['je'], ['nejhorší', 'samotě', 'na']],
+ 'slova frází id': [[1], [2], [3], [5, 7, 6]]}
+
+{'délka v počtu frází': 5,
+ 'délky frází': [1, 1, 2, 1, 5],
+ 'hlavy frází form': ['A', 'přece', 'já', 'bych', 'šťastný'],
+ 'hlavy frází id': [1, 2, 4, 5, 8],
+ 'id věty': 56,
+ 'root form': 'dovedl',
+ 'root id': 6,
+ 'slova frází form': [['A'], ['přece'], ['já', 'i'], ['bych'], ['šťastný', 'být', 'nejšťastnější', 'a', 'dokonce']],
+ 'slova frází id': [[1], [2], [4, 3], [5], [8, 7, 12, 10, 11]]}
+
+{'délka v počtu frází': 3,
+ 'délky frází': [4, 2, 8],
+ 'hlavy frází form': ['nesmírnost', 'mně', 'přišlo'],
+ 'hlavy frází id': [2, 5, 15],
+ 'id věty': 57,
+ 'root form': 'ukazuje',
+ 'root id': 7,
+ 'slova frází form': [['nesmírnost', 'Právě', 'samoty', 'mé'], ['mně', 'samotnému'], ['přišlo', 'co', 'mně', 'nazmar', 'družnosti', 've', 'lásky', 'a']],
+ 'slova frází id': [[2, 1, 4, 3], [5, 6], [15, 9, 14, 16, 10, 13, 12, 11]]}
+
+{'délka v počtu frází': 0, 'délky frází': [], 'hlavy frází form': [], 'hlavy frází id': [], 'id věty': 58, 'root form': None, 'root id': 'není', 'slova frází form': [], 'slova frází id': []}
+
+{'délka v počtu frází': 0, 'délky frází': [], 'hlavy frází form': [], 'hlavy frází id': [], 'id věty': 59, 'root form': None, 'root id': 'není', 'slova frází form': [], 'slova frází id': []}
+
+{'délka v počtu frází': 0, 'délky frází': [], 'hlavy frází form': [], 'hlavy frází id': [], 'id věty': 60, 'root form': None, 'root id': 'není', 'slova frází form': [], 'slova frází id': []}
+
+{'délka v počtu frází': 0, 'délky frází': [], 'hlavy frází form': [], 'hlavy frází id': [], 'id věty': 61, 'root form': None, 'root id': 'není', 'slova frází form': [], 'slova frází id': []}
+
+{'délka v počtu frází': 4,
+ 'délky frází': [1, 1, 2, 2],
+ 'hlavy frází form': ['Jak', 'by', 'téma', 'pobavit'],
+ 'hlavy frází id': [1, 2, 6, 7],
+ 'id věty': 62,
+ 'root form': 'mohlo',
+ 'root id': 4,
+ 'slova frází form': [['Jak'], ['by'], ['téma', 'tohle'], ['pobavit', 'Vás']],
+ 'slova frází id': [[1], [2], [6, 5], [7, 3]]}
+
+{'délka v počtu frází': 2,
+ 'délky frází': [3, 6],
+ 'hlavy frází form': ['píšu', 'všechno'],
+ 'hlavy frází id': [3, 10],
+ 'id věty': 63,
+ 'root form': 'Odpusťte',
+ 'root id': 1,
+ 'slova frází form': [['píšu', 'slabosti', 'ze'], ['všechno', 'a', 'slabost', 'je', 'píšu', 'co']],
+ 'slova frází id': [[3, 5, 4], [10, 7, 8, 9, 13, 12]]}
+
+{'délka v počtu frází': 3,
+ 'délky frází': [1, 2, 7],
+ 'hlavy frází form': ['mi', 'těžko', 'očima'],
+ 'hlavy frází id': [2, 4, 6],
+ 'id věty': 64,
+ 'root form': 'Je',
+ 'root id': 1,
+ 'slova frází form': [['mi'], ['těžko', 'tak'], ['očima', 'mezi', 'hrdle', 'prsou', 'v', 'a', 'na']],
+ 'slova frází id': [[2], [4, 3], [6, 5, 9, 12, 8, 10, 11]]}
+
+{'délka v počtu frází': 3,
+ 'délky frází': [1, 1, 17],
+ 'hlavy frází form': ['to', 'Vy', 'začnete'],
+ 'hlavy frází id': [1, 2, 12],
+ 'id věty': 65,
+ 'root form': 'neznáte',
+ 'root id': 3,
+ 'slova frází form': [['to'], ['Vy'], ['začnete', 'ale', 'bude', 'také', 'cítit', 'až', 'Vám', 'let', 'úzkost', 'utíkat', 'třicet', 'tu', 'když', 'Vám', 'naděje', 'bude', 'nějaká']],
+ 'slova frází id': [[1], [2], [12, 5, 8, 13, 14, 6, 7, 10, 16, 23, 9, 15, 18, 19, 21, 22, 20]]}
+
+{'délka v počtu frází': 4,
+ 'délky frází': [3, 1, 1, 1],
+ 'hlavy frází form': ['doby', 'budete', 'jistě', 'velká'],
+ 'hlavy frází id': [3, 4, 5, 6],
+ 'id věty': 66,
+ 'root form': 'herečka',
+ 'root id': 7,
+ 'slova frází form': [['doby', 'Do', 'té'], ['budete'], ['jistě'], ['velká']],
+ 'slova frází id': [[3, 1, 2], [4], [5], [6]]}
+
+{'délka v počtu frází': 5,
+ 'délky frází': [1, 1, 1, 10, 6],
+ 'hlavy frází form': ['pak', 'už', 'nebudete', 'úspěch', 'ne'],
+ 'hlavy frází id': [1, 2, 3, 6, 20],
+ 'id věty': 67,
+ 'root form': 'myslet',
+ 'root id': 4,
+ 'slova frází form': [['pak'], ['už'], ['nebudete'], ['úspěch', 'na', 'paruku', 'hadry', 'to', 'na', 'na', 'na', 'ono', 'a'], ['ne', 'místě', 'nebo', 'aspoň', 'na', 'prvním']],
+ 'slova frází id': [[1], [2], [3], [6, 5, 9, 12, 15, 8, 11, 14, 17, 16], [20, 24, 19, 21, 22, 23]]}
+
+{'délka v počtu frází': 3,
+ 'délky frází': [1, 1, 14],
+ 'hlavy frází form': ['budete', 'víc', 'den'],
+ 'hlavy frází id': [1, 2, 5],
+ 'id věty': 68,
+ 'root form': 'myslet',
+ 'root id': 3,
+ 'slova frází form': [['budete'], ['víc'], ['den', 'na', 'hodinu', 'odchází', 'nebo', 'která', 'přidává', 'a', 'opuštěnosti', 'tíhu', 'k', 'Vaší', 'celou', 'svou']],
+ 'slova frází id': [[1], [2], [5, 4, 7, 10, 6, 9, 12, 11, 15, 18, 13, 14, 16, 17]]}
+
+{'délka v počtu frází': 3,
+ 'délky frází': [1, 2, 1],
+ 'hlavy frází form': ['Ostatně', 'prorokovat', 'je'],
+ 'hlavy frází id': [1, 4, 5],
+ 'id věty': 69,
+ 'root form': 'slabost',
+ 'root id': 6,
+ 'slova frází form': [['Ostatně'], ['prorokovat', 'i'], ['je']],
+ 'slova frází id': [[1], [4, 3], [5]]}
+
+{'délka v počtu frází': 3,
+ 'délky frází': [1, 1, 4],
+ 'hlavy frází form': ['Vlastně', 'jsem', 'psát'],
+ 'hlavy frází id': [1, 3, 4],
+ 'id věty': 70,
+ 'root form': 'chtěl',
+ 'root id': 2,
+ 'slova frází form': [['Vlastně'], ['jsem'], ['psát', 'věci', 'o', 'jiné']],
+ 'slova frází id': [[1], [3], [4, 7, 5, 6]]}
+
+{'délka v počtu frází': 3,
+ 'délky frází': [1, 1, 14],
+ 'hlavy frází form': ['Chvílemi', 'mne', 'úzkost'],
+ 'hlavy frází id': [1, 2, 4],
+ 'id věty': 71,
+ 'root form': 'přepadá',
+ 'root id': 3,
+ 'slova frází form': [['Chvílemi'], ['mne'], ['úzkost', 'lítost', 'a', 'nechtěl', 'že', 'jsem', 'přistoupit', 'přátelství', 'na', 'nabídla', 'které', 'jste', 'mi', 'kdysi']],
+ 'slova frází id': [[1], [2], [4, 6, 5, 10, 8, 9, 11, 13, 12, 19, 15, 16, 17, 18]]}
+
+{'délka v počtu frází': 0, 'délky frází': [], 'hlavy frází form': [], 'hlavy frází id': [], 'id věty': 72, 'root form': None, 'root id': 'není', 'slova frází form': [], 'slova frází id': []}
+
+{'délka v počtu frází': 4,
+ 'délky frází': [1, 2, 3, 5],
+ 'hlavy frází form': ['by', 'Vás', 'nežádal', 'nebralo'],
+ 'hlavy frází id': [2, 4, 8, 14],
+ 'id věty': 73,
+ 'root form': 'Seděl',
+ 'root id': 1,
+ 'slova frází form': [['by'], ['Vás', 'vedle'], ['nežádal', 'nic', 'by'], ['nebralo', 'nic', 'by', 'se', 'mu']],
+ 'slova frází id': [[2], [4, 3], [8, 6, 7], [14, 10, 11, 12, 13]]}
+
+{'délka v počtu frází': 0, 'délky frází': [], 'hlavy frází form': [], 'hlavy frází id': [], 'id věty': 74, 'root form': None, 'root id': 'není', 'slova frází form': [], 'slova frází id': []}
+
+{'délka v počtu frází': 3,
+ 'délky frází': [1, 1, 3],
+ 'hlavy frází form': ['Nuže', 'tady', 'dopis'],
+ 'hlavy frází id': [1, 3, 5],
+ 'id věty': 75,
+ 'root form': 'je',
+ 'root id': 4,
+ 'slova frází form': [['Nuže'], ['tady'], ['dopis', 'tuším', 'jedenáctý']],
+ 'slova frází id': [[1], [3], [5, 7, 9]]}
+
+{'délka v počtu frází': 0, 'délky frází': [], 'hlavy frází form': [], 'hlavy frází id': [], 'id věty': 76, 'root form': None, 'root id': 'není', 'slova frází form': [], 'slova frází id': []}
+
+{'délka v počtu frází': 2,
+ 'délky frází': [1, 2],
+ 'hlavy frází form': ['Jste', 'dostávat'],
+ 'hlavy frází id': [1, 3],
+ 'id věty': 77,
+ 'root form': 'zvyklá',
+ 'root id': 2,
+ 'slova frází form': [['Jste'], ['dostávat', 'dopisy']],
+ 'slova frází id': [[1], [3, 4]]}
+
+{'délka v počtu frází': 4,
+ 'délky frází': [1, 1, 1, 11],
+ 'hlavy frází form': ['není', 'to', 'nepříjemná', 'nutno'],
+ 'hlavy frází id': [1, 2, 3, 8],
+ 'id věty': 78,
+ 'root form': 'věc',
+ 'root id': 4,
+ 'slova frází form': [['není'], ['to'], ['nepříjemná'], ['nutno', 'není', 'li', 'odpovídat', 'dopisům', 'nejen', 'sobě', 'ale', 'také', 'ne', 'samotné']],
+ 'slova frází id': [[1], [2], [3], [8, 6, 7, 9, 12, 11, 17, 14, 15, 16, 18]]}
+
+{'délka v počtu frází': 3,
+ 'délky frází': [1, 3, 9],
+ 'hlavy frází form': ['bych', 'snažně', 'bylo'],
+ 'hlavy frází id': [2, 3, 11],
+ 'id věty': 79,
+ 'root form': 'Chtěl',
+ 'root id': 1,
+ 'slova frází form': [['bych'], ['snažně', 'nesmírně', 'a'], ['bylo', 'by', 'námi', 'cokoliv', 'mezi', 'slabost', 'jenom', 'ne', 'má']],
+ 'slova frází id': [[2], [3, 5, 4], [11, 8, 10, 12, 9, 17, 14, 15, 16]]}
+
+{'délka v počtu frází': 4,
+ 'délky frází': [1, 1, 5, 7],
+ 'hlavy frází form': ['si', 'to', 'hnán', 'mohu'],
+ 'hlavy frází id': [2, 3, 10, 19],
+ 'id věty': 80,
+ 'root form': 'Nezasloužím',
+ 'root id': 1,
+ 'slova frází form': [['si'], ['to'], ['hnán', 'bych', 'byl', 'ní', 'do'], ['mohu', 'a', 'přece', 'bože', 'dělat', 'můj', 'co']],
+ 'slova frází id': [[2], [3], [10, 6, 7, 9, 8], [19, 12, 13, 16, 20, 15, 18]]}
+
+{'délka v počtu frází': 0, 'délky frází': [], 'hlavy frází form': [], 'hlavy frází id': [], 'id věty': 81, 'root form': None, 'root id': 'není', 'slova frází form': [], 'slova frází id': []}
+
+{'délka v počtu frází': 5,
+ 'délky frází': [1, 1, 1, 1, 3],
+ 'hlavy frází form': ['Ó', 'by', 'jednou', 'prostředky', 'rukou'],
+ 'hlavy frází id': [1, 3, 4, 6, 9],
+ 'id věty': 82,
+ 'root form': 'byly',
+ 'root id': 5,
+ 'slova frází form': [['Ó'], ['by'], ['jednou'], ['prostředky'], ['rukou', 'v', 'mých']],
+ 'slova frází id': [[1], [3], [4], [6], [9, 7, 8]]}
+
+{'délka v počtu frází': 2,
+ 'délky frází': [1, 5],
+ 'hlavy frází form': ['byste', 'obrat'],
+ 'hlavy frází id': [2, 8],
+ 'id věty': 83,
+ 'root form': 'Mrkala',
+ 'root id': 1,
+ 'slova frází form': [['byste'], ['obrat', 'jaký', 'by', 'to', 'byl']],
+ 'slova frází id': [[2], [8, 4, 5, 6, 7]]}
+
