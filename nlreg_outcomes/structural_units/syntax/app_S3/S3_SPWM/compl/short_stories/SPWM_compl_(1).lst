@@ -1,0 +1,57 @@
+   1: variable x,y;
+   2: parameter a,b,c;
+   3: function y=a*(x^b)*exp(c*x);
+   4: Plot xlabel="x-Achse",ylabel="y-Achse";
+   5: data;
+
+Beginning computation...
+Stopped due to: Singular convergence.  Mutually dependent parameters?
+
+
+   ----  Final Results  ----
+
+NLREG version 5.4
+Copyright (c) 1992-2002 Phillip H. Sherrod.  All rights reserved.
+This is a registered copy of NLREG that may not be redistributed.
+
+Number of observations = 13
+Maximum allowed number of iterations = 500
+Convergence tolerance factor = 1.000000E-010
+Stopped due to: Singular convergence.  Mutually dependent parameters?
+Warning: All data points are on one side of the curve.
+This indicates the model does not fit the data well.
+Number of iterations performed = 1
+Final sum of squared deviations = 7.6956634E+028
+Final sum of deviations = -2.7741084E+014
+Standard error of estimate = 8.77249E+013
+Average deviation = 2.13393E+013
+Maximum deviation for any observation = 2.77411E+014
+Parameter values will be written to C:\Users\peleg\OneDrive\doktorát\experiment_disertace\výsledky\fin_výsl\syntax\typ3\FSM3_oprava\pov_FSM3\vysl_compl_FSM3_pov\param_compl_FSM3_pov_01.par
+Analysis completed  3-Apr-2023 13:33.  Runtime = 0.00 seconds.
+
+
+             ----  Descriptive Statistics for Variables  ----
+
+ Variable    Minimum value   Maximum value    Mean value     Standard dev.
+----------  --------------  --------------  --------------  --------------
+         x               1           29.86        8.996923        7.758272
+         y            1.92            2.59        2.313077       0.1628591
+
+
+  ----  Calculated Parameter Values  ----
+
+ Parameter  Initial guess   Final estimate 
+----------  -------------  ----------------
+         a              1                 1
+         b              1                 1
+         c              1                 1
+
+
+                  ----  Analysis of Variance  ----
+
+  Source     DF   Sum of Squares    Mean Square    F value   Prob(F)
+----------  ----  --------------  --------------  ---------  -------
+Regression     2               0               0       0.00  1.00000
+Error         10   7.695663E+028   7.695663E+027
+Total         12       0.3182769
+

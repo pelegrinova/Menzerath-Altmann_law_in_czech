@@ -1,0 +1,47 @@
+   1: variable x,y;
+   2: parameter b;
+   3: function y=2.84*(x^b);
+   4: Plot xlabel="x-Achse",ylabel="y-Achse";
+   5: data;
+
+Beginning computation...
+Stopped due to: Both parameter and relative function convergence.
+
+
+   ----  Final Results  ----
+
+NLREG version 5.4
+Copyright (c) 1992-2002 Phillip H. Sherrod.  All rights reserved.
+This is a registered copy of NLREG that may not be redistributed.
+
+Number of observations = 6
+Maximum allowed number of iterations = 500
+Convergence tolerance factor = 1.000000E-010
+Stopped due to: Both parameter and relative function convergence.
+Number of iterations performed = 9
+Final sum of squared deviations = 2.4094656E-001
+Final sum of deviations = -1.8768900E-001
+Standard error of estimate = 0.219521
+Average deviation = 0.133363
+Maximum deviation for any observation = 0.449653
+Proportion of variance explained (R^2) = 0.7751  (77.51%)
+Adjusted coefficient of multiple determination (Ra^2) = 0.7751  (77.51%)
+Durbin-Watson test for autocorrelation = 1.608
+Parameter values will be written to C:\Users\peleg\OneDrive\doktorát\experiment_disertace\výsledky\fin_výsl\slovo_morfém_foném_oprava\pov_SMF\tokens_pov_SMF\vysl_trunc_SMF_tokens_pov\param_trunc_tokens_pov_07.par
+Analysis completed  2-Apr-2023 17:15.  Runtime = 0.00 seconds.
+
+
+             ----  Descriptive Statistics for Variables  ----
+
+ Variable    Minimum value   Maximum value    Mean value     Standard dev.
+----------  --------------  --------------  --------------  --------------
+         x               1            6.07        3.511667         1.88966
+         y            1.57            2.84        1.913333       0.4628895
+
+
+                   ----  Calculated Parameter Values  ----
+
+ Parameter  Initial guess   Final estimate   Standard error      t      Prob(t)
+----------  -------------  ----------------  --------------  ---------  -------
+         b              1      -0.368615223      0.04342689      -8.49  0.00037
+

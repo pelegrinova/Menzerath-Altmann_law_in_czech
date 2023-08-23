@@ -1,0 +1,48 @@
+   1: variable x,y;
+   2: parameter b;
+   3: function y=3.81*(x^b);
+   4: Plot xlabel="x-Achse",ylabel="y-Achse";
+   5: data;
+
+Beginning computation...
+Stopped due to: Both parameter and relative function convergence.
+
+
+   ----  Final Results  ----
+
+NLREG version 5.4
+Copyright (c) 1992-2002 Phillip H. Sherrod.  All rights reserved.
+This is a registered copy of NLREG that may not be redistributed.
+
+Number of observations = 6
+Maximum allowed number of iterations = 500
+Convergence tolerance factor = 1.000000E-010
+Stopped due to: Both parameter and relative function convergence.
+Number of iterations performed = 11
+Final sum of squared deviations = 1.2283251E-001
+Final sum of deviations = -7.2954274E-002
+Standard error of estimate = 0.156737
+Average deviation = 0.116028
+Maximum deviation for any observation = 0.216382
+Proportion of variance explained (R^2) = 0.9655  (96.55%)
+Adjusted coefficient of multiple determination (Ra^2) = 0.9655  (96.55%)
+Durbin-Watson test for autocorrelation = 0.713
+This Durbin-Watson value indicates autocorrelation or inappropriate function.
+Parameter values will be written to C:\Users\peleg\OneDrive\doktorát\experiment_disertace\výsledky\fin_výsl\slovo_morfém_foném_oprava\poh_SMF\types_poh_SMF\vysl_trunc_SMF_types_poh\param_trunc_types_poh_07.par
+Analysis completed  2-Apr-2023 17:16.  Runtime = 0.00 seconds.
+
+
+             ----  Descriptive Statistics for Variables  ----
+
+ Variable    Minimum value   Maximum value    Mean value     Standard dev.
+----------  --------------  --------------  --------------  --------------
+         x               1             6.5        3.583333         2.01039
+         y            1.59            3.81        2.198333       0.8433841
+
+
+                   ----  Calculated Parameter Values  ----
+
+ Parameter  Initial guess   Final estimate   Standard error      t      Prob(t)
+----------  -------------  ----------------  --------------  ---------  -------
+         b              1      -0.545026218      0.02970647     -18.35  0.00001
+

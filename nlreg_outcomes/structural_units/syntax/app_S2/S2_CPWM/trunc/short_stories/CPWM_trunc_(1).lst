@@ -1,0 +1,44 @@
+   1: variable x,y;
+   2: parameter b;
+   3: function y=1.85*(x^b);
+   4: Plot xlabel="x-Achse",ylabel="y-Achse";
+   5: data;
+
+Beginning computation...
+Stopped due to: Both parameter and relative function convergence.
+
+
+   ----  Final Results  ----
+
+NLREG version 5.4
+Copyright (c) 1992-2002 Phillip H. Sherrod.  All rights reserved.
+This is a registered copy of NLREG that may not be redistributed.
+
+Number of observations = 8
+Maximum allowed number of iterations = 500
+Convergence tolerance factor = 1.000000E-010
+Stopped due to: Both parameter and relative function convergence.
+Number of iterations performed = 10
+Final sum of squared deviations = 5.5490436E-001
+Final sum of deviations = 6.2395079E-001
+Standard error of estimate = 0.281553
+Average deviation = 0.214913
+Maximum deviation for any observation = 0.407263
+Parameter values will be written to C:\Users\peleg\OneDrive\doktorát\experiment_disertace\výsledky\fin_výsl\syntax\typ2\FSM2_oprava\pov_FSM2\vysl_trunc_FSM2_pov\param_trunc_FSM2_pov_01.par
+Analysis completed  4-Apr-2023 16:33.  Runtime = 0.00 seconds.
+
+
+             ----  Descriptive Statistics for Variables  ----
+
+ Variable    Minimum value   Maximum value    Mean value     Standard dev.
+----------  --------------  --------------  --------------  --------------
+         x               1              13           5.175        3.789365
+         y            1.85            2.68         2.29875       0.2492525
+
+
+                   ----  Calculated Parameter Values  ----
+
+ Parameter  Initial guess   Final estimate   Standard error      t      Prob(t)
+----------  -------------  ----------------  --------------  ---------  -------
+         b              1       0.127870364      0.02638981       4.85  0.00187
+

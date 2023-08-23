@@ -1,0 +1,47 @@
+   1: variable x,y;
+   2: parameter b;
+   3: function y=2.73*(x^b);
+   4: Plot xlabel="x-Achse",ylabel="y-Achse";
+   5: data;
+
+Beginning computation...
+Stopped due to: Relative function convergence.
+
+
+   ----  Final Results  ----
+
+NLREG version 5.4
+Copyright (c) 1992-2002 Phillip H. Sherrod.  All rights reserved.
+This is a registered copy of NLREG that may not be redistributed.
+
+Number of observations = 4
+Maximum allowed number of iterations = 500
+Convergence tolerance factor = 1.000000E-010
+Stopped due to: Relative function convergence.
+Number of iterations performed = 7
+Final sum of squared deviations = 1.0533378E-002
+Final sum of deviations = -6.7121395E-003
+Standard error of estimate = 0.0592548
+Average deviation = 0.0421638
+Maximum deviation for any observation = 0.0809715
+Proportion of variance explained (R^2) = 0.0489  (4.89%)
+Adjusted coefficient of multiple determination (Ra^2) = 0.0489  (4.89%)
+Durbin-Watson test for autocorrelation = 3.227
+Parameter values will be written to C:\Users\peleg\OneDrive\doktorát\experiment_disertace\výsledky\fin_výsl\zvukové_jednotky\KTS\dop_KTS\tokens_dop_KTS\vysl_trunc_KTS_tokens_dop\param_trunc_tokens_dop_05.par
+Analysis completed 21-Feb-2023 07:46.  Runtime = 0.00 seconds.
+
+
+             ----  Descriptive Statistics for Variables  ----
+
+ Variable    Minimum value   Maximum value    Mean value     Standard dev.
+----------  --------------  --------------  --------------  --------------
+         x               1             4.4             2.6        1.451436
+         y            2.69            2.83          2.7425      0.06075909
+
+
+                   ----  Calculated Parameter Values  ----
+
+ Parameter  Initial guess   Final estimate   Standard error      t      Prob(t)
+----------  -------------  ----------------  --------------  ---------  -------
+         b              1     0.00632250775      0.01092766       0.58  0.60345
+

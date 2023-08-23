@@ -1,0 +1,57 @@
+   1: variable x,y;
+   2: parameter a,b,c;
+   3: function y=a*(x^b)*exp(c*x);
+   4: Plot xlabel="x-Achse",ylabel="y-Achse";
+   5: data;
+
+Beginning computation...
+Stopped due to: Absolute function convergence.
+
+
+   ----  Final Results  ----
+
+NLREG version 5.4
+Copyright (c) 1992-2002 Phillip H. Sherrod.  All rights reserved.
+This is a registered copy of NLREG that may not be redistributed.
+
+Number of observations = 3
+Maximum allowed number of iterations = 500
+Convergence tolerance factor = 1.000000E-010
+Stopped due to: Absolute function convergence.
+Number of iterations performed = 16
+Final sum of squared deviations = 5.9026517E-028
+Final sum of deviations = 2.2648550E-014
+Average deviation = 1.16943E-014
+Maximum deviation for any observation = 2.26485E-014
+Proportion of variance explained (R^2) = 1.0000  (100.00%)
+Adjusted coefficient of multiple determination (Ra^2) = 0.0000  (0.00%)
+Durbin-Watson test for autocorrelation = 1.869
+Parameter values will be written to C:\Users\peleg\OneDrive\doktorát\experiment_disertace\výsledky\fin_výsl\zvukové_jednotky\VKT\dop_VKT\tokens_dop_VKT\vysl_compl_VKT_tokens_dop\param_compl_tokens_dop_06.par
+Analysis completed 21-Feb-2023 07:46.  Runtime = 0.00 seconds.
+
+
+             ----  Descriptive Statistics for Variables  ----
+
+ Variable    Minimum value   Maximum value    Mean value     Standard dev.
+----------  --------------  --------------  --------------  --------------
+         x               1            7.33            3.57        3.328558
+         y            2.55            3.91        3.093333       0.7200231
+
+
+  ----  Calculated Parameter Values  ----
+
+ Parameter  Initial guess   Final estimate 
+----------  -------------  ----------------
+         a              1        3.52971162
+         b              1      -0.539734151
+         c              1       0.102321201
+
+
+----  Analysis of Variance  ----
+
+  Source     DF   Sum of Squares
+----------  ----  --------------
+Regression     2        1.036867
+Error          0   5.902652E-028
+Total          2        1.036867
+

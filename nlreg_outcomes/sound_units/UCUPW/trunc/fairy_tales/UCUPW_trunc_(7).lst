@@ -1,0 +1,44 @@
+   1: variable x,y;
+   2: parameter b;
+   3: function y=2.55*(x^b);
+   4: Plot xlabel="x-Achse",ylabel="y-Achse";
+   5: data;
+
+Beginning computation...
+Stopped due to: Relative function convergence.
+
+
+   ----  Final Results  ----
+
+NLREG version 5.4
+Copyright (c) 1992-2002 Phillip H. Sherrod.  All rights reserved.
+This is a registered copy of NLREG that may not be redistributed.
+
+Number of observations = 6
+Maximum allowed number of iterations = 500
+Convergence tolerance factor = 1.000000E-010
+Stopped due to: Relative function convergence.
+Number of iterations performed = 9
+Final sum of squared deviations = 9.1544457E-001
+Final sum of deviations = 5.3734380E-001
+Standard error of estimate = 0.427889
+Average deviation = 0.28617
+Maximum deviation for any observation = 0.812869
+Parameter values will be written to C:\Users\peleg\OneDrive\doktorát\experiment_disertace\výsledky\fin_výsl\zvukové_jednotky\VKT\poh_VKT\tokens_poh_VKT\vysl_trunc_VKT_tokens_poh\param_trunc_tokens_poh_07.par
+Analysis completed 21-Feb-2023 07:46.  Runtime = 0.00 seconds.
+
+
+             ----  Descriptive Statistics for Variables  ----
+
+ Variable    Minimum value   Maximum value    Mean value     Standard dev.
+----------  --------------  --------------  --------------  --------------
+         x               1           10.33        4.221667        3.309806
+         y            2.45            3.47        2.828333       0.3888144
+
+
+                   ----  Calculated Parameter Values  ----
+
+ Parameter  Initial guess   Final estimate   Standard error      t      Prob(t)
+----------  -------------  ----------------  --------------  ---------  -------
+         b              1      0.0593719866      0.04407701       1.35  0.23581
+

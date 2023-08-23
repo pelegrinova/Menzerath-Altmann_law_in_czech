@@ -1,0 +1,55 @@
+   1: variable x,y;
+   2: parameter a,b,c;
+   3: function y=a*(x^b)*exp(c*x);
+   4: Plot xlabel="x-Achse",ylabel="y-Achse";
+   5: data;
+
+Beginning computation...
+Stopped due to: Singular convergence.  Mutually dependent parameters?
+
+
+   ----  Final Results  ----
+
+NLREG version 5.4
+Copyright (c) 1992-2002 Phillip H. Sherrod.  All rights reserved.
+This is a registered copy of NLREG that may not be redistributed.
+
+Number of observations = 14
+Maximum allowed number of iterations = 500
+Convergence tolerance factor = 1.000000E-010
+Stopped due to: Singular convergence.  Mutually dependent parameters?
+Number of iterations performed = 1
+Final sum of squared deviations = 4.5376680E+026
+Final sum of deviations = -2.1302080E+013
+Standard error of estimate = 6.42274E+012
+Average deviation = 1.52158E+012
+Maximum deviation for any observation = 2.13018E+013
+Parameter values will be written to C:\Users\peleg\OneDrive\doktorát\experiment_disertace\výsledky\fin_výsl\syntax\typ1\KSM1_oprava\poh_KSM1\vysl_compl_KSM1_poh\param_compl_KSM1_poh_10.par
+Analysis completed  5-Apr-2023 12:16.  Runtime = 0.00 seconds.
+
+
+             ----  Descriptive Statistics for Variables  ----
+
+ Variable    Minimum value   Maximum value    Mean value     Standard dev.
+----------  --------------  --------------  --------------  --------------
+         x               1           27.38        8.827143        6.927248
+         y            1.85            3.25        2.213571        0.351953
+
+
+  ----  Calculated Parameter Values  ----
+
+ Parameter  Initial guess   Final estimate 
+----------  -------------  ----------------
+         a              1                 1
+         b              1                 1
+         c              1                 1
+
+
+                  ----  Analysis of Variance  ----
+
+  Source     DF   Sum of Squares    Mean Square    F value   Prob(F)
+----------  ----  --------------  --------------  ---------  -------
+Regression     2               0               0       0.00  1.00000
+Error         11   4.537668E+026   4.125153E+025
+Total         13        1.610321
+

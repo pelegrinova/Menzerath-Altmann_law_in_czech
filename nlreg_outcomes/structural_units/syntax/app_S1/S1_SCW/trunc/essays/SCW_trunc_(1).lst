@@ -1,0 +1,47 @@
+   1: variable x,y;
+   2: parameter b;
+   3: function y=13.08*(x^b);
+   4: Plot xlabel="x-Achse",ylabel="y-Achse";
+   5: data;
+
+Beginning computation...
+Stopped due to: Absolute function convergence.
+
+
+   ----  Final Results  ----
+
+NLREG version 5.4
+Copyright (c) 1992-2002 Phillip H. Sherrod.  All rights reserved.
+This is a registered copy of NLREG that may not be redistributed.
+
+Number of observations = 2
+Maximum allowed number of iterations = 500
+Convergence tolerance factor = 1.000000E-010
+Stopped due to: Absolute function convergence.
+Number of iterations performed = 8
+Final sum of squared deviations = 3.1554436E-030
+Final sum of deviations = -1.7763568E-015
+Standard error of estimate = 1.77636E-015
+Average deviation = 8.88178E-016
+Maximum deviation for any observation = 1.77636E-015
+Proportion of variance explained (R^2) = 1.0000  (100.00%)
+Adjusted coefficient of multiple determination (Ra^2) = 1.0000  (100.00%)
+Durbin-Watson test for autocorrelation = 1.000
+Parameter values will be written to C:\Users\peleg\OneDrive\doktorát\experiment_disertace\výsledky\fin_výsl\syntax\typ1\VKS1\stud_VKS1\vysl_trunc_VKS1_stud\param_trunc_VKS1_stud_01.par
+Analysis completed  4-Jan-2023 19:48.  Runtime = 0.00 seconds.
+
+
+             ----  Descriptive Statistics for Variables  ----
+
+ Variable    Minimum value   Maximum value    Mean value     Standard dev.
+----------  --------------  --------------  --------------  --------------
+         x               1            2.91           1.955        1.350574
+         y           10.58           13.08           11.83        1.767767
+
+
+                   ----  Calculated Parameter Values  ----
+
+ Parameter  Initial guess   Final estimate   Standard error      t      Prob(t)
+----------  -------------  ----------------  --------------  ---------  -------
+         b              1      -0.198584757    1.57185E-016  -1.3E+015  0.00001
+

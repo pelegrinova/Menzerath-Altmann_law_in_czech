@@ -1,0 +1,56 @@
+   1: variable x,y;
+   2: parameter a,b;
+   3: function y=a*(x^b);
+   4: Plot xlabel="x-Achse",ylabel="y-Achse";
+   5: data;
+
+Beginning computation...
+Stopped due to: Absolute function convergence.
+
+
+   ----  Final Results  ----
+
+NLREG version 5.4
+Copyright (c) 1992-2002 Phillip H. Sherrod.  All rights reserved.
+This is a registered copy of NLREG that may not be redistributed.
+
+Number of observations = 2
+Maximum allowed number of iterations = 500
+Convergence tolerance factor = 1.000000E-010
+Stopped due to: Absolute function convergence.
+Number of iterations performed = 7
+Final sum of squared deviations = 3.1554436E-030
+Final sum of deviations = 1.7763568E-015
+Average deviation = 8.88178E-016
+Maximum deviation for any observation = 1.77636E-015
+Proportion of variance explained (R^2) = 1.0000  (100.00%)
+Adjusted coefficient of multiple determination (Ra^2) = 0.0000  (0.00%)
+Durbin-Watson test for autocorrelation = 1.000
+Parameter values will be written to C:\Users\peleg\OneDrive\doktorát\experiment_disertace\výsledky\fin_výsl\syntax\typ2\KFS2\stud_KFS2\vysl_trunc_KFS2_stud\param_trunc_KFS2_stud_02.par
+Analysis completed  4-Jan-2023 19:54.  Runtime = 0.00 seconds.
+
+
+             ----  Descriptive Statistics for Variables  ----
+
+ Variable    Minimum value   Maximum value    Mean value     Standard dev.
+----------  --------------  --------------  --------------  --------------
+         x            2.57            4.53            3.55        1.385929
+         y            2.22            2.37           2.295        0.106066
+
+
+  ----  Calculated Parameter Values  ----
+
+ Parameter  Initial guess   Final estimate 
+----------  -------------  ----------------
+         a              1        1.99097958
+         b              1       0.115350933
+
+
+----  Analysis of Variance  ----
+
+  Source     DF   Sum of Squares
+----------  ----  --------------
+Regression     1         0.01125
+Error          0   3.155444E-030
+Total          1         0.01125
+

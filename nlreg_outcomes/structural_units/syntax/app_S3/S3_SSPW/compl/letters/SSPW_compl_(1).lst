@@ -1,0 +1,58 @@
+   1: variable x,y;
+   2: parameter a,b,c;
+   3: function y=a*(x^b)*exp(c*x);
+   4: Plot xlabel="x-Achse",ylabel="y-Achse";
+   5: data;
+
+Beginning computation...
+Stopped due to: Relative function convergence.
+
+
+   ----  Final Results  ----
+
+NLREG version 5.4
+Copyright (c) 1992-2002 Phillip H. Sherrod.  All rights reserved.
+This is a registered copy of NLREG that may not be redistributed.
+
+Number of observations = 4
+Maximum allowed number of iterations = 500
+Convergence tolerance factor = 1.000000E-010
+Stopped due to: Relative function convergence.
+Number of iterations performed = 17
+Final sum of squared deviations = 7.8568957E-003
+Final sum of deviations = 8.4408396E-004
+Standard error of estimate = 0.0886391
+Average deviation = 0.0390784
+Maximum deviation for any observation = 0.0658524
+Proportion of variance explained (R^2) = 0.9916  (99.16%)
+Adjusted coefficient of multiple determination (Ra^2) = 0.9749  (97.49%)
+Durbin-Watson test for autocorrelation = 3.360
+Parameter values will be written to C:\Users\peleg\OneDrive\doktorát\experiment_disertace\výsledky\fin_výsl\syntax\typ3\VFS3\dopVFS3\vysl_compl_VFS3_dop\param_compl_VFS3_dop_01.par
+Analysis completed  4-Jan-2023 19:59.  Runtime = 0.00 seconds.
+
+
+             ----  Descriptive Statistics for Variables  ----
+
+ Variable    Minimum value   Maximum value    Mean value     Standard dev.
+----------  --------------  --------------  --------------  --------------
+         x            1.88            5.31          3.5475         1.45962
+         y            2.65            3.86           3.375       0.5600298
+
+
+                   ----  Calculated Parameter Values  ----
+
+ Parameter  Initial guess   Final estimate   Standard error      t      Prob(t)
+----------  -------------  ----------------  --------------  ---------  -------
+         a              1        4.59593558       0.1990864      23.09  0.02756
+         b              1       0.676546389       0.2165078       3.12  0.19717
+         c              1      -0.318359673      0.06841352      -4.65  0.13476
+
+
+                  ----  Analysis of Variance  ----
+
+  Source     DF   Sum of Squares    Mean Square    F value   Prob(F)
+----------  ----  --------------  --------------  ---------  -------
+Regression     2       0.9330431       0.4665216      59.38  0.09138
+Error          1     0.007856896     0.007856896
+Total          3          0.9409
+

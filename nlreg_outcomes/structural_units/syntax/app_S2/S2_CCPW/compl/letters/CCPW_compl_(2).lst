@@ -1,0 +1,58 @@
+   1: variable x,y;
+   2: parameter a,b,c;
+   3: function y=a*(x^b)*exp(c*x);
+   4: Plot xlabel="x-Achse",ylabel="y-Achse";
+   5: data;
+
+Beginning computation...
+Stopped due to: Absolute function convergence.
+
+
+   ----  Final Results  ----
+
+NLREG version 5.4
+Copyright (c) 1992-2002 Phillip H. Sherrod.  All rights reserved.
+This is a registered copy of NLREG that may not be redistributed.
+
+Number of observations = 3
+Maximum allowed number of iterations = 500
+Convergence tolerance factor = 1.000000E-010
+Stopped due to: Absolute function convergence.
+Number of iterations performed = 14
+Final sum of squared deviations = 7.7830989E-028
+Final sum of deviations = -3.8635761E-014
+Average deviation = 1.33227E-014
+Maximum deviation for any observation = 2.13163E-014
+Proportion of variance explained (R^2) = 1.0000  (100.00%)
+Adjusted coefficient of multiple determination (Ra^2) = 0.0000  (0.00%)
+Durbin-Watson test for autocorrelation = 0.635
+This Durbin-Watson value indicates autocorrelation or inappropriate function.
+Parameter values will be written to C:\Users\peleg\OneDrive\doktorát\experiment_disertace\výsledky\fin_výsl\syntax\typ2\KFS2\dop_KFS2\vysl_compl_KFS2_dop\param_compl_KFS2_dop_02.par
+Analysis completed  4-Jan-2023 19:54.  Runtime = 0.00 seconds.
+
+
+             ----  Descriptive Statistics for Variables  ----
+
+ Variable    Minimum value   Maximum value    Mean value     Standard dev.
+----------  --------------  --------------  --------------  --------------
+         x            1.65            4.62            3.09        1.487044
+         y            1.44            2.33        1.863333       0.4465796
+
+
+  ----  Calculated Parameter Values  ----
+
+ Parameter  Initial guess   Final estimate 
+----------  -------------  ----------------
+         a              1        1.55297188
+         b              1        2.88668939
+         c              1      -0.921884868
+
+
+----  Analysis of Variance  ----
+
+  Source     DF   Sum of Squares
+----------  ----  --------------
+Regression     2       0.3988667
+Error          0   7.783099E-028
+Total          2       0.3988667
+

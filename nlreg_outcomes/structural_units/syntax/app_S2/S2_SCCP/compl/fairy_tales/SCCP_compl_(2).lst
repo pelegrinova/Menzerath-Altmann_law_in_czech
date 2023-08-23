@@ -1,0 +1,47 @@
+   1: variable x,y;
+   2: parameter b;
+   3: function y=2.92*(x^b);
+   4: Plot xlabel="x-Achse",ylabel="y-Achse";
+   5: data;
+
+Beginning computation...
+Stopped due to: Relative function convergence.
+
+
+   ----  Final Results  ----
+
+NLREG version 5.4
+Copyright (c) 1992-2002 Phillip H. Sherrod.  All rights reserved.
+This is a registered copy of NLREG that may not be redistributed.
+
+Number of observations = 5
+Maximum allowed number of iterations = 500
+Convergence tolerance factor = 1.000000E-010
+Stopped due to: Relative function convergence.
+Number of iterations performed = 9
+Final sum of squared deviations = 2.9174544E-002
+Final sum of deviations = 1.0200149E-001
+Standard error of estimate = 0.0854028
+Average deviation = 0.0636934
+Maximum deviation for any observation = 0.128189
+Proportion of variance explained (R^2) = 0.8573  (85.73%)
+Adjusted coefficient of multiple determination (Ra^2) = 0.8573  (85.73%)
+Durbin-Watson test for autocorrelation = 1.203
+Parameter values will be written to C:\Users\peleg\OneDrive\doktorát\experiment_disertace\výsledky\fin_výsl\syntax\typ2\VKF2\poh_VKF2\vysl_trunc_VKF2_poh\param_trunc_VKF2_poh_02.par
+Analysis completed  4-Jan-2023 19:54.  Runtime = 0.00 seconds.
+
+
+             ----  Descriptive Statistics for Variables  ----
+
+ Variable    Minimum value   Maximum value    Mean value     Standard dev.
+----------  --------------  --------------  --------------  --------------
+         x               1            7.31            3.57        2.465928
+         y             2.4            2.92           2.692       0.2260973
+
+
+                   ----  Calculated Parameter Values  ----
+
+ Parameter  Initial guess   Final estimate   Standard error      t      Prob(t)
+----------  -------------  ----------------  --------------  ---------  -------
+         b              1       -0.08558688      0.01193174      -7.17  0.00200
+

@@ -1,0 +1,58 @@
+   1: variable x,y;
+   2: parameter a,b,c;
+   3: function y=a*(x^b)*exp(-c*x);
+   4: Plot xlabel="x-Achse",ylabel="y-Achse";
+   5: data;
+
+Beginning computation...
+Stopped due to: Relative function convergence.
+
+
+   ----  Final Results  ----
+
+NLREG version 6.6
+Copyright (c) 1992-2015 Phillip H. Sherrod.
+
+Number of observations = 18
+Maximum allowed number of iterations = 500
+Convergence tolerance factor = 1.000000E-010
+Stopped due to: Relative function convergence.
+Number of iterations performed = 11
+Final sum of squared deviations = 2.5958294E-001
+Final sum of deviations = -7.5146573E-004
+Standard error of estimate = 0.13155
+Average deviation = 0.100751
+Maximum deviation for any observation = 0.227827
+Proportion of variance explained (R^2) = 0.7265  (72.65%)
+Adjusted coefficient of multiple determination (Ra^2) = 0.6900  (69.00%)
+Durbin-Watson test for autocorrelation = 1.532
+Analysis completed  7-Apr-2023 19:33.  Runtime = 0.08 seconds.
+
+
+             ----  Descriptive Statistics for Variables  ----
+
+      Variable       Minimum value   Maximum value    Mean value     Standard dev.
+------------------  --------------  --------------  --------------  --------------
+                 x               1           24.71        9.903333        6.179751
+                 y             2.3            3.39        2.823333         0.23627
+
+
+                   ----  Calculated Parameter Values  ----
+
+     Parameter      Initial guess   Final estimate   Standard error      t      Prob(t)
+------------------  -------------  ----------------  --------------  ---------  -------
+                 a              1        3.24213432       0.1013134      32.00  0.00001
+                 b              1     -0.0339861593      0.03199887      -1.06  0.30499
+                 c              1     0.00720018393     0.004585312       1.57  0.13720
+
+
+                  ----  Analysis of Variance  ----
+
+  Source     DF   Sum of Squares    Mean Square    F value   Prob(F)
+----------  ----  --------------  --------------  ---------  -------
+Regression     2       0.6894171       0.3447085      19.92  0.00006
+Error         15       0.2595829      0.01730553
+Total         17           0.949
+
+
+If you haven't registered your use, please do so.  If you have, thank you.

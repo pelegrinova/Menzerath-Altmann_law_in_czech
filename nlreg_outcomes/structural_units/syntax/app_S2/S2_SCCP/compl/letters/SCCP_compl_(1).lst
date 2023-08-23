@@ -1,0 +1,57 @@
+   1: variable x,y;
+   2: parameter a,b,c;
+   3: function y=a*(x^b)*exp(c*x);
+   4: Plot xlabel="x-Achse",ylabel="y-Achse";
+   5: data;
+
+Beginning computation...
+Stopped due to: Absolute function convergence.
+
+
+   ----  Final Results  ----
+
+NLREG version 5.4
+Copyright (c) 1992-2002 Phillip H. Sherrod.  All rights reserved.
+This is a registered copy of NLREG that may not be redistributed.
+
+Number of observations = 3
+Maximum allowed number of iterations = 500
+Convergence tolerance factor = 1.000000E-010
+Stopped due to: Absolute function convergence.
+Number of iterations performed = 10
+Final sum of squared deviations = 4.8514946E-029
+Final sum of deviations = -1.7763568E-015
+Average deviation = 3.84877E-015
+Maximum deviation for any observation = 4.88498E-015
+Proportion of variance explained (R^2) = 1.0000  (100.00%)
+Adjusted coefficient of multiple determination (Ra^2) = 0.0000  (0.00%)
+Durbin-Watson test for autocorrelation = 1.894
+Parameter values will be written to C:\Users\peleg\OneDrive\doktorát\experiment_disertace\výsledky\fin_výsl\syntax\typ2\VKF2\dop_VKF2\vysl_compl_VKF2_dop\param_compl_VKF2_dop_01.par
+Analysis completed  4-Jan-2023 19:54.  Runtime = 0.00 seconds.
+
+
+             ----  Descriptive Statistics for Variables  ----
+
+ Variable    Minimum value   Maximum value    Mean value     Standard dev.
+----------  --------------  --------------  --------------  --------------
+         x               1            3.84            2.28        1.440555
+         y            2.54            3.41        2.836667       0.4966219
+
+
+  ----  Calculated Parameter Values  ----
+
+ Parameter  Initial guess   Final estimate 
+----------  -------------  ----------------
+         a              1        2.48334525
+         b              1      -0.882430135
+         c              1        0.31710575
+
+
+----  Analysis of Variance  ----
+
+  Source     DF   Sum of Squares
+----------  ----  --------------
+Regression     2       0.4932667
+Error          0   4.851495E-029
+Total          2       0.4932667
+

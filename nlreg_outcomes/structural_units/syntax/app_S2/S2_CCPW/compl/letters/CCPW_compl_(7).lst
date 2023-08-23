@@ -1,0 +1,57 @@
+   1: variable x,y;
+   2: parameter a,b,c;
+   3: function y=a*(x^b)*exp(c*x);
+   4: Plot xlabel="x-Achse",ylabel="y-Achse";
+   5: data;
+
+Beginning computation...
+Stopped due to: Parameter convergence.
+
+
+   ----  Final Results  ----
+
+NLREG version 5.4
+Copyright (c) 1992-2002 Phillip H. Sherrod.  All rights reserved.
+This is a registered copy of NLREG that may not be redistributed.
+
+Number of observations = 3
+Maximum allowed number of iterations = 500
+Convergence tolerance factor = 1.000000E-010
+Stopped due to: Parameter convergence.
+Number of iterations performed = 12
+Final sum of squared deviations = 1.4298104E-030
+Final sum of deviations = -6.6613381E-016
+Average deviation = 6.66134E-016
+Maximum deviation for any observation = 8.88178E-016
+Proportion of variance explained (R^2) = 1.0000  (100.00%)
+Adjusted coefficient of multiple determination (Ra^2) = 0.0000  (0.00%)
+Durbin-Watson test for autocorrelation = 1.000
+Parameter values will be written to C:\Users\peleg\OneDrive\doktorát\experiment_disertace\výsledky\fin_výsl\syntax\typ2\KFS2\dop_KFS2\vysl_compl_KFS2_dop\param_compl_KFS2_dop_07.par
+Analysis completed  4-Jan-2023 19:54.  Runtime = 0.00 seconds.
+
+
+             ----  Descriptive Statistics for Variables  ----
+
+ Variable    Minimum value   Maximum value    Mean value     Standard dev.
+----------  --------------  --------------  --------------  --------------
+         x            1.81            4.39        3.066667        1.291291
+         y            1.71            2.04        1.823333       0.1877054
+
+
+  ----  Calculated Parameter Values  ----
+
+ Parameter  Initial guess   Final estimate 
+----------  -------------  ----------------
+         a              1        2.24937977
+         b              1      -0.923532191
+         c              1       0.248757862
+
+
+----  Analysis of Variance  ----
+
+  Source     DF   Sum of Squares
+----------  ----  --------------
+Regression     2      0.07046667
+Error          0    1.42981E-030
+Total          2      0.07046667
+

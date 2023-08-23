@@ -1,0 +1,48 @@
+   1: variable x,y;
+   2: parameter b;
+   3: function y=3.54*(x^b);
+   4: Plot xlabel="x-Achse",ylabel="y-Achse";
+   5: data;
+
+Beginning computation...
+Stopped due to: Both parameter and relative function convergence.
+
+
+   ----  Final Results  ----
+
+NLREG version 5.4
+Copyright (c) 1992-2002 Phillip H. Sherrod.  All rights reserved.
+This is a registered copy of NLREG that may not be redistributed.
+
+Number of observations = 11
+Maximum allowed number of iterations = 500
+Convergence tolerance factor = 1.000000E-010
+Stopped due to: Both parameter and relative function convergence.
+Number of iterations performed = 11
+Final sum of squared deviations = 1.2179330E-001
+Final sum of deviations = -2.7489848E-001
+Standard error of estimate = 0.11036
+Average deviation = 0.0866759
+Maximum deviation for any observation = 0.193706
+Proportion of variance explained (R^2) = 0.4836  (48.36%)
+Adjusted coefficient of multiple determination (Ra^2) = 0.4836  (48.36%)
+Durbin-Watson test for autocorrelation = 0.581
+This Durbin-Watson value indicates autocorrelation or inappropriate function.
+Parameter values will be written to C:\Users\peleg\OneDrive\doktorát\experiment_disertace\výsledky\fin_výsl\zvukové_jednotky\KTS\stud_KTS\tokens_stud_KTS\vysl_trunc_KTS_tokens_stud\param_trunc_tokens_stud_slouè.par
+Analysis completed 21-Feb-2023 07:46.  Runtime = 0.00 seconds.
+
+
+             ----  Descriptive Statistics for Variables  ----
+
+ Variable    Minimum value   Maximum value    Mean value     Standard dev.
+----------  --------------  --------------  --------------  --------------
+         x               1           12.79        6.162727        3.616805
+         y            2.98            3.54        3.103636       0.1535756
+
+
+                   ----  Calculated Parameter Values  ----
+
+ Parameter  Initial guess   Final estimate   Standard error      t      Prob(t)
+----------  -------------  ----------------  --------------  ---------  -------
+         b              1     -0.0779932186     0.006253278     -12.47  0.00001
+

@@ -1,0 +1,57 @@
+   1: variable x,y;
+   2: parameter a,b;
+   3: function y=a*(x^b);
+   4: Plot xlabel="x-Achse",ylabel="y-Achse";
+   5: data;
+
+Beginning computation...
+Stopped due to: Relative function convergence.
+
+
+   ----  Final Results  ----
+
+NLREG version 6.6
+Copyright (c) 1992-2015 Phillip H. Sherrod.
+
+Number of observations = 5
+Maximum allowed number of iterations = 500
+Convergence tolerance factor = 1.000000E-010
+Stopped due to: Relative function convergence.
+Number of iterations performed = 10
+Final sum of squared deviations = 1.8526495E-001
+Final sum of deviations = 1.9119583E-003
+Standard error of estimate = 0.248505
+Average deviation = 0.169746
+Maximum deviation for any observation = 0.284927
+Proportion of variance explained (R^2) = 0.8988  (89.88%)
+Adjusted coefficient of multiple determination (Ra^2) = 0.8651  (86.51%)
+Durbin-Watson test for autocorrelation = 2.372
+Analysis completed 15-Jan-2023 12:21.  Runtime = 0.05 seconds.
+
+
+             ----  Descriptive Statistics for Variables  ----
+
+      Variable       Minimum value   Maximum value    Mean value     Standard dev.
+------------------  --------------  --------------  --------------  --------------
+                 x               2            6.31           4.062        1.682029
+                 y            3.23            4.85           3.932        0.676624
+
+
+                   ----  Calculated Parameter Values  ----
+
+     Parameter      Initial guess   Final estimate   Standard error      t      Prob(t)
+------------------  -------------  ----------------  --------------  ---------  -------
+                 a              1        6.25707486       0.5458855      11.46  0.00143
+                 b              1      -0.358320068      0.06843737      -5.24  0.01356
+
+
+                  ----  Analysis of Variance  ----
+
+  Source     DF   Sum of Squares    Mean Square    F value   Prob(F)
+----------  ----  --------------  --------------  ---------  -------
+Regression     1        1.646015        1.646015      26.65  0.01410
+Error          3        0.185265      0.06175498
+Total          4         1.83128
+
+
+If you haven't registered your use, please do so.  If you have, thank you.

@@ -1,0 +1,56 @@
+   1: variable x,y;
+   2: parameter a, b;
+   3: function y=a*(x^b);
+   4: Plot xlabel="x-Achse",ylabel="y-Achse";
+   5: data;
+
+Beginning computation...
+Stopped due to: Absolute function convergence.
+
+
+   ----  Final Results  ----
+
+NLREG version 6.6
+Copyright (c) 1992-2015 Phillip H. Sherrod.
+
+Number of observations = 2
+Maximum allowed number of iterations = 500
+Convergence tolerance factor = 1.000000E-010
+Stopped due to: Absolute function convergence.
+Number of iterations performed = 9
+Final sum of squared deviations = 3.1159880E-024
+Final sum of deviations = -1.9113600E-012
+Average deviation = 9.5568E-013
+Maximum deviation for any observation = 1.75859E-012
+Proportion of variance explained (R^2) = 1.0000  (100.00%)
+Adjusted coefficient of multiple determination (Ra^2) = 0.0000  (0.00%)
+Durbin-Watson test for autocorrelation = 0.828
+Analysis completed 25-Feb-2023 08:31.  Runtime = 0.05 seconds.
+
+
+             ----  Descriptive Statistics for Variables  ----
+
+      Variable       Minimum value   Maximum value    Mean value     Standard dev.
+------------------  --------------  --------------  --------------  --------------
+                 x               4           10.58            7.29        4.652763
+                 y            3.61            4.47            4.04       0.6081118
+
+
+  ----  Calculated Parameter Values  ----
+
+     Parameter      Initial guess   Final estimate 
+------------------  -------------  ----------------
+                 a              1        6.06136863
+                 b              1      -0.219684376
+
+
+----  Analysis of Variance  ----
+
+  Source     DF   Sum of Squares
+----------  ----  --------------
+Regression     1          0.3698
+Error          0   3.115988E-024
+Total          1          0.3698
+
+
+If you haven't registered your use, please do so.  If you have, thank you.
